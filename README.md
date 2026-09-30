@@ -1,5 +1,5 @@
-﻿<p align="center">
-  <img src="assets/brand/xmeck-ai-hero-premium.png" width="100%" alt="XMECK-AI â€” Private-first Personal Intelligence Workspace">
+<p align="center">
+  <img src="assets/brand/xmeck-ai-hero-animated.svg" width="100%" alt="XMECK-AI — Private-first Personal Intelligence Workspace for Windows">
 </p>
 
 <h1 align="center">XMECK-AI</h1>
@@ -10,218 +10,457 @@
 </p>
 
 <p align="center">
-  Local Intelligence Â· Projects/Git Â· Knowledge/RAG Â· Managed Models Â· Governed Connections Â· Work Â· Activity/Evidence Â· Recovery
+  <a href="https://github.com/XMECK-LAB/XMECK-AI/tree/history/qbox-r1"><strong>QBOX-AI R1</strong></a>
+  ·
+  <a href="https://github.com/XMECK-LAB/XMECK-AI/tree/history/qbox-r2"><strong>QBOX-AI R2</strong></a>
+  ·
+  <a href="https://github.com/XMECK-LAB/XMECK-AI/tree/main"><strong>XMECK-AI 1.0</strong></a>
 </p>
 
 <p align="center">
-  <a href="#product-evolution">Evolution</a> Â·
-  <a href="#current-product">Current Product</a> Â·
-  <a href="#managed-intelligence">Models</a> Â·
-  <a href="#projects--git">Projects/Git</a> Â·
-  <a href="#architecture">Architecture</a> Â·
-  <a href="#engineering-boundary">Evidence</a> Â·
-  <a href="demo/index.html">Demo</a>
+  <strong>Local Intelligence</strong> ·
+  <strong>Projects / Git</strong> ·
+  <strong>Knowledge / RAG</strong> ·
+  <strong>Managed Models</strong> ·
+  <strong>Governed Connections</strong> ·
+  <strong>Work Modes</strong> ·
+  <strong>Activity / Evidence</strong> ·
+  <strong>Recovery</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/XMECK-LAB"><strong>XMECK-LAB</strong></a>
-  &nbsp;Â·&nbsp;
-  <a href="https://github.com/raajmandale"><strong>Raaj Mandale</strong></a>
+  Built by <a href="https://github.com/raajmandale"><strong>Raaj Mandale</strong></a>
+  ·
+  Published under <a href="https://github.com/XMECK-LAB"><strong>XMECK-LAB</strong></a>
 </p>
 
 ---
 
-## Product evolution
+## ✦ Product in one line
 
-XMECK-AI has a traceable engineering lineage rather than a rewritten origin story.
+**XMECK-AI is a Windows intelligence workspace that keeps local control, explicit routing, bounded authority, inspectable evidence, and recovery as first-class product concerns.**
+
+It is not positioned as "just another local chat UI." The product is built around a stronger operating model:
+
+> **The user owns context, routing, authority, evidence, and recovery. Models and providers are replaceable capabilities — not the product identity.**
+
+---
+
+## 🧭 Engineering lineage
+
+XMECK-AI did not appear as a finished product in one step. Its public lineage is intentionally preserved:
 
 <p align="center">
-  <img src="assets/brand/xmeck-ai-product-evolution.png" width="100%" alt="QBOX-AI R1 to R2 to XMECK-AI product evolution">
+  <img src="assets/diagrams/product-evolution-animated.svg" width="96%" alt="QBOX-AI R1 to R2 to XMECK-AI product evolution">
 </p>
+
+| Generation | Public state | What it represents |
+|---|---|---|
+| **QBOX-AI Stage B R1** | Historical branch | Early Windows/local-intelligence engineering foundation |
+| **QBOX-AI Stage B R2** | Historical branch | Founder-accepted working local-intelligence milestone with stronger qualification |
+| **XMECK-AI 1.0.0.0** | `main` | Current product identity and productized engineering line |
+
+### R1 — engineering foundation
+
+R1 established the first coherent QBOX-owned Windows workspace foundation:
+
+- explicit local-model setup;
+- pinned runtime/model path;
+- chat and conversation foundations;
+- Projects and Knowledge foundations;
+- startup and validation tooling;
+- package/component manifests;
+- generation-specific traceability.
+
+Browse: [`history/qbox-r1`](https://github.com/XMECK-LAB/XMECK-AI/tree/history/qbox-r1)
+
+### R2 — working local-intelligence milestone
+
+R2 matured the product beyond R1 with:
+
+- a dedicated `qualification/` evidence plane;
+- stronger runtime provenance;
+- exact model verification/admission;
+- streaming/cancellation and conversation-lifecycle evidence;
+- project/Git and Knowledge-grounding evidence;
+- sustained Windows journey evidence;
+- stronger acceptance discipline.
+
+Browse: [`history/qbox-r2`](https://github.com/XMECK-LAB/XMECK-AI/tree/history/qbox-r2)
+
+### XMECK-AI — current product
+
+XMECK-AI converges that lineage into one current Windows product with:
+
+- private-first local intelligence;
+- Projects / Git;
+- Knowledge / RAG;
+- managed model readiness;
+- explicit local / connected routing;
+- bounded Work modes and agents;
+- ProjectGuard;
+- Activity / Evidence;
+- recovery / lifecycle / packaging.
+
+> **Branches preserve browsable engineering history. GitHub Releases carry runnable binary artifacts.**
+
+---
+
+## 🖥️ Current product surface
 
 <p align="center">
-  <img src="assets/diagrams/product-evolution-animated.svg" width="96%" alt="Animated XMECK-AI engineering lineage">
+  <img src="assets/diagrams/product-surface.svg" width="96%" alt="XMECK-AI product surfaces">
 </p>
 
-### QBOX-AI Stage B R1 â€” engineering foundation
+### Core surfaces
 
-R1 established the early Windows/local-intelligence product foundation:
+- **Home / Command Center** — product state, readiness, and active route
+- **Chat** — local-first conversation surface
+- **Conversations** — durable conversation history
+- **Projects** — user-owned local workspaces
+- **Knowledge** — grounded local knowledge / RAG
+- **Intelligence** — model/runtime readiness and routing
+- **Connected** — optional external/provider paths
+- **Work** — governed Ask / Research / Project / Build / Write modes
+- **Activity** — visible action/evidence history
+- **Settings** — product/runtime configuration
+- **Context / Evidence** — request context and proof surface
 
-- QBOX-owned Windows workspace shell;
-- explicit model setup;
-- pinned model/runtime path;
-- chat / conversations / Projects / Knowledge surfaces;
-- package/component manifests and validation controls;
-- startup-corrected Founder candidate lineage.
+**Current desktop stack:** `.NET 8` + `WPF` on **Windows x64**.
 
-### QBOX-AI Stage B R2 â€” Founder-accepted working local-intelligence milestone
+---
 
-R2 superseded R1 for Founder functional acceptance and added a stronger qualification/packaging layer:
+## 💬 Local intelligence
 
-- `qualification/`, `runtime/`, `scripts/`;
-- `TRACEABILITY_STAGE_B_R2.md`;
-- exact-model admission workflow;
-- pinned local runtime;
-- real local chat path physically exercised;
-- stronger readiness / acceptance discipline.
+<p align="center">
+  <img src="assets/screenshots/03-local-chat-ready.png" width="94%" alt="XMECK-AI local chat ready">
+</p>
 
-The preserved audit basis explicitly treats R1, R2 and XMECK-AI as **three generations/candidates â€” not three equal public releases**. îˆ€fileciteîˆ‚turn136file0îˆ‚L5-L15îˆ
+The current reference local path uses:
 
-### XMECK-AI â€” current product identity
+| Component | Reference |
+|---|---|
+| **Chat model** | Qwen3-8B Q4_K_M |
+| **Embedding model** | Qwen3-Embedding-0.6B Q8_0 |
+| **Runtime** | llama.cpp |
+| **Artifact format** | GGUF |
+| **Chat SHA-256** | `d98cdcbd03e17ce47681435b5150e34c1417f50b5c0019dd560e4882c5745785` |
+| **Embedding SHA-256** | `06507c7b42688469c4e7298b0a1e16deff06caf291cf0a5b278c308249c3e439` |
 
-XMECK-AI is the successor product built from that validated foundation. The public lineage is intentionally simple:
+Model weights are **not redistributed** by this public repository. User-supplied models remain user-owned resources.
+
+---
+
+## 🧠 Managed model readiness
+
+<p align="center">
+  <img src="assets/diagrams/model-readiness.svg" width="96%" alt="XMECK-AI model readiness chain">
+</p>
+
+A discovered model is not automatically treated as usable.
+
+**Readiness chain**
 
 ```text
-QBOX-AI R1
-engineering foundation
-        â†“
-QBOX-AI R2
-Founder-accepted working local-intelligence milestone
-        â†“
-XMECK-AI
-current product
+identity
+  -> hardware eligibility
+  -> runtime load
+  -> inference proof
+  -> semantic-role qualification
+  -> routing eligibility
 ```
 
-R1/R2 are **engineering provenance**. XMECK-AI is the current product users should discover today. The preserved audit reached the same conclusion after the Founder confirmed that model setup, Qwen admission and chat had already worked in the R1/R2 journey. îˆ€fileciteîˆ‚turn136file0îˆ‚L382-L429îˆ
-
----
-
-## Current product
-
 <p align="center">
-  <img src="assets/brand/xmeck-ai-hero-animated.svg" width="100%" alt="Animated XMECK-AI product hero">
+  <img src="assets/screenshots/08-model-storage-discovery.png" width="48%" alt="Model storage and discovery">
+  <img src="assets/screenshots/09-gguf-discovery-results.png" width="48%" alt="GGUF discovery results">
 </p>
-
-XMECK-AI is a **single-user Windows intelligence workspace** designed around a clear product law:
-
-> **The user owns context, routing, authority, evidence and recovery. Models and providers are replaceable capabilities â€” not the product identity.**
-
-<p align="center">
-  <img src="assets/diagrams/product-surface.svg" width="96%" alt="XMECK-AI current product surfaces">
-</p>
-
-### Current surfaces
-
-**Home / Command Center** Â· **Chat** Â· **Conversations** Â· **Projects** Â· **Knowledge** Â· **Intelligence** Â· **Connected** Â· **Work** Â· **Activity** Â· **Settings** Â· **Context/Evidence**
-
-The current desktop product is built on **.NET 8 + WPF for Windows x64**.
-
-### Product contract
-
-- **private/local-first core** without mandatory cloud credentials;
-- **external providers are optional** and never a silent fallback;
-- **Projects remain user-owned local folders**;
-- **models must earn readiness** rather than being trusted by filename;
-- **agents/tools do not receive ambient authority**;
-- **ProjectGuard** mediates protected egress and side effects;
-- **Activity/Evidence** keeps important state and actions visible;
-- **recovery/lifecycle** is part of the product architecture.
-
----
-
-## Current product surface
-
-### Local chat â€” factory route ready
-
-<p align="center">
-  <img src="assets/screenshots/03-local-chat-ready.png" width="94%" alt="XMECK-AI local chat route ready">
-</p>
-
-The current application can project a qualified local Qwen route and expose the active request context rather than treating the model as an invisible backend.
-
-### Private-first operating modes
-
-<p align="center">
-  <img src="assets/screenshots/05-connected-operating-modes.png" width="94%" alt="XMECK-AI connected operating modes">
-</p>
-
-The product distinguishes:
-
-- **Private on this PC**
-- **Connected private**
-- **Cloud assist**
-
-Connected capability remains explicit. A configured provider is not automatically represented as qualified.
-
----
-
-## Projects + Git
-
-<p align="center">
-  <img src="assets/screenshots/06-project-git-workspace.png" width="94%" alt="XMECK-AI Projects and Git workspace">
-</p>
-
-The current Projects surface includes:
-
-- choose a local project folder;
-- inspect **Git status**;
-- inspect **Git diff**;
-- inspect **Git log**;
-- index supported project text;
-- propose a change;
-- apply a reviewed change;
-- undo an XMECK change.
-
-Project access is designed **read-only by default**, with side-effect execution separated from proposal/review.
-
-A live GitHub account/app remains a separate qualification boundary.
-
----
-
-## Managed intelligence
-
-XMECK-AI deliberately separates **discovery**, **artifact identity**, **runtime readiness** and **routing eligibility**.
-
-<p align="center">
-  <img src="assets/diagrams/model-readiness.svg" width="96%" alt="XMECK-AI managed intelligence readiness chain">
-</p>
-
-The governed readiness path is:
-
-**identity â†’ hardware eligibility â†’ runtime load â†’ inference proof â†’ semantic-role qualification â†’ routing eligibility**
-
-### Reference local profile
-
-| Component | Current reference |
-|---|---|
-| Chat model | **Qwen3-8B Q4_K_M** |
-| Local runtime | **llama.cpp** |
-| Artifact format | **GGUF** |
-| Chat SHA-256 | `d98cdcbd03e17ce47681435b5150e34c1417f50b5c0019dd560e4882c5745785` |
-| Embedding model | **Qwen3-Embedding-0.6B Q8_0** |
-| Embedding SHA-256 | `06507c7b42688469c4e7298b0a1e16deff06caf291cf0a5b278c308249c3e439` |
-
-Model weights remain **user-owned resources** and are not redistributed by this public repository.
-
-### Discovery is not admission
-
-<p align="center">
-  <img src="assets/screenshots/08-model-storage-discovery.png" width="48%" alt="XMECK-AI model storage and discovery">
-  <img src="assets/screenshots/09-gguf-discovery-results.png" width="48%" alt="XMECK-AI GGUF discovery results">
-</p>
-
-The product can discover public GGUF metadata and present candidate artifacts.
-
-That does **not** make a model ready.
 
 > **Discovery metadata is not admission.**
 
 ---
 
-## Engineering lineage gallery
+## 📁 Projects + Git
 
-These screens document the product ancestry. They are intentionally placed here rather than used as the current product hero.
+<p align="center">
+  <img src="assets/screenshots/06-project-git-workspace.png" width="94%" alt="XMECK-AI Projects and Git workspace">
+</p>
 
-### R1 â€” startup-corrected engineering candidate
+The Projects surface supports a governed local-workflow model:
+
+- choose a user-owned local project folder;
+- inspect **Git status**;
+- inspect **Git diff**;
+- inspect **Git log**;
+- index supported project text;
+- propose a change;
+- review before applying;
+- apply a reviewed change;
+- undo an XMECK-applied change.
+
+Project access is designed **read-only by default**, with side-effect execution separated from proposal and review.
+
+---
+
+## 🔐 Private-first routing
+
+<p align="center">
+  <img src="assets/screenshots/05-connected-operating-modes.png" width="94%" alt="XMECK-AI private-first operating modes">
+</p>
+
+XMECK-AI distinguishes:
+
+- **Private on this PC**
+- **Connected private**
+- **Cloud assist**
+
+External providers are optional and are **not** treated as silent fallback.
+
+A configured provider is not automatically represented as qualified.
+
+---
+
+## 🛡️ Authority + ProjectGuard
+
+XMECK-AI separates capability from authority.
+
+A model or agent being technically able to perform an operation does not mean it receives ambient permission to do so.
+
+**ProjectGuard** is the product boundary around protected-context egress and side-effect authority.
+
+The design goal is:
+
+```text
+propose
+  -> review
+  -> authorize
+  -> execute
+  -> record evidence
+```
+
+rather than:
+
+```text
+model can do it
+  -> therefore model may do it
+```
+
+---
+
+## 🧾 Product Truth + Evidence
+
+XMECK-AI distinguishes product states such as:
+
+- **ready**
+- **qualified**
+- **unavailable**
+- **held**
+
+UI presence alone is not treated as proof of readiness.
+
+<p align="center">
+  <img src="assets/diagrams/claim-matrix.svg" width="96%" alt="XMECK-AI public claim matrix">
+</p>
+
+### Defensible current statements
+
+- a real Windows x64 desktop product exists;
+- the application has been installed/launched on the Founder machine;
+- a qualified local Qwen3 reference path has been exercised;
+- Projects / Git / Knowledge / Intelligence / Connected / Work / Activity surfaces exist;
+- managed model identity/readiness architecture exists;
+- deterministic package/recovery/update lineage exists;
+- a signing-ready MSIX / App Installer engineering lane exists.
+
+### Explicitly not established
+
+- trusted signed commercial release;
+- universal provider qualification;
+- independent security/compliance certification;
+- product-market fit / revenue / retention;
+- performance or model-quality leadership;
+- global novelty / patentability.
+
+> **Evidence before claim.**
+
+---
+
+## 🏗️ Architecture
+
+<p align="center">
+  <img src="assets/diagrams/architecture.svg" width="96%" alt="XMECK-AI public product architecture">
+</p>
+
+```text
+Experience System
+      |
+Product Truth
+      |
++--------------------+----------------------+-------------------+
+| Sovereign Storage  | Intelligence Hub     | Project Fabric    |
+|                    |                      |                   |
+|                    +-> Managed Models     +-> Projects / Git  |
+|                    +-> Capability Router  +-> Knowledge       |
+|                           |                                    |
+|                      +----+----+                               |
+|                      |         |                               |
+|                    LOCAL    CONNECTED                           |
+|                      |         |                               |
+|                 Knowledge   Providers/Web                      |
++----------------------+---------+-------------------------------+
+                       |
+         Ask / Research / Project / Build / Write
+                       |
+                Agent Workforce
+                       |
+                  ProjectGuard
+                       |
+                    Evidence
+                       |
+               Artifacts / Output
+                       |
+             Diagnostics / Recovery
+                       |
+          Lifecycle / Packaging / Update
+```
+
+---
+
+## 🧰 Work modes + artifacts
+
+### Work modes
+
+- **Ask**
+- **Research**
+- **Project**
+- **Build**
+- **Write**
+
+### Artifact surfaces in the engineering lineage
+
+- Markdown
+- Report
+- PDF
+- DOCX
+- PPTX
+- Spreadsheet
+- Code Package
+
+Image generation remains route/provider-bound rather than implied as universally available.
+
+---
+
+## 📦 Historical runnable builds
+
+The historical branches are for **inspection**. Runnable Windows packages are distributed separately as **GitHub Release assets**. The exact artifact names and hashes below define those public binary artifacts.
+
+### QBOX-AI Stage B R1
+
+- Branch: [`history/qbox-r1`](https://github.com/XMECK-LAB/XMECK-AI/tree/history/qbox-r1)
+- Tag: `qbox-stage-b-r1`
+- Artifact: `QBOX-AI_STAGE-B_R1_HISTORICAL_WINDOWS-x64.zip`
+- SHA-256: `5188f023d8974c4132509b0a86f93659ca1ead5cb9915412569e730c733c11e4`
+
+### QBOX-AI Stage B R2
+
+- Branch: [`history/qbox-r2`](https://github.com/XMECK-LAB/XMECK-AI/tree/history/qbox-r2)
+- Tag: `qbox-stage-b-r2`
+- Artifact: `QBOX-AI_STAGE-B_R2_HISTORICAL_WINDOWS-x64.zip`
+- SHA-256: `8e148b5751127fb76d62bf5b094618ab77d38931d0ff2e1836d86a1dae033da0`
+
+> GitHub's automatic **Source code (zip)** for a branch or tag is only a repository snapshot. It is **not** the runnable Windows artifact above.
+
+---
+
+## 🚦 XMECK-AI 1.0.0.0 release boundary
+
+Current canonical engineering candidate:
+
+`XMECK-AI_FINAL_FOUNDER_CANDIDATE_1.0.0.0.zip`
+
+SHA-256:
+
+`0b3c346e2b9df7d8ee121f3451db0ef98ee340096a26b8f4a313cdbca44e1dd3`
+
+The frozen candidate includes:
+
+- product payload;
+- install / uninstall / recovery scripts;
+- component and dependency manifests;
+- package and payload SHA manifests;
+- provenance;
+- SBOM;
+- evidence;
+- recovery/runtime closure information.
+
+### Held external release authorities
+
+- **trusted Publisher / code-signing identity**
+- **production update source**
+- **provider/account-specific live proofs where required**
+
+The current Founder candidate is therefore **not** represented as a trusted signed commercial installer.
+
+---
+
+## 🎯 Product thesis
+
+By 2026, local inference, RAG, projects, model switching, provider choice, and agents are established category capabilities.
+
+XMECK-AI does **not** present those primitives alone as invention.
+
+Its strongest credible product position is:
+
+> **A governed private-first Windows intelligence workspace for serious personal/professional knowledge and engineering work where local control, explicit routing, bounded authority, evidence, and recovery matter.**
+
+The intended differentiation is the integrated operating discipline:
+
+1. **Product Truth** instead of UI-only readiness
+2. **Model admission** instead of trusting filenames
+3. **Explicit routing** instead of silent fallback
+4. **ProjectGuard** instead of ambient authority
+5. **Evidence-before-claim**
+6. **User-owned Projects / Knowledge / models**
+7. **Recovery and lifecycle discipline**
+8. **Deterministic package / SBOM / provenance lineage**
+
+---
+
+## 🔭 Roadmap discipline
+
+### Near-term
+
+- trusted public Windows distribution;
+- removal of remaining installer friction;
+- stable update/rollback path;
+- external-user onboarding validation;
+- reproducible performance/quality baselines;
+- separate qualification of connected-provider routes.
+
+### Future scope — not yet claimed
+
+- voice;
+- mobile;
+- macOS / Linux;
+- broad MCP/plugin marketplace;
+- unrestricted browser/computer-use;
+- multi-user enterprise collaboration.
+
+Future scope must earn its own engineering and release evidence.
+
+---
+
+## 🧪 Engineering lineage gallery
+
+### R1 — startup-corrected engineering candidate
 
 <p align="center">
   <img src="assets/history/qbox-r1-package.png" width="88%" alt="QBOX-AI R1 engineering package">
 </p>
 
-### R2 â€” Founder acceptance candidate
+### R2 — Founder acceptance candidate
 
 <p align="center">
-  <img src="assets/history/qbox-r2-package.png" width="88%" alt="QBOX-AI R2 Founder acceptance package">
+  <img src="assets/history/qbox-r2-package.png" width="88%" alt="QBOX-AI R2 package">
 </p>
 
 <p align="center">
@@ -233,215 +472,79 @@ These screens document the product ancestry. They are intentionally placed here 
   <img src="assets/history/qbox-r2-workspace.png" width="88%" alt="QBOX-AI R2 AI workspace">
 </p>
 
-The preserved engineering audit records the R1 package with `QBOX-AI.exe`, `QboxAI.Core.dll`, tests/runtime files, launch/validation scripts and package/component manifests, while R2 adds the qualification/runtime/scripts/traceability layer. îˆ€fileciteîˆ‚turn136file0îˆ‚L18-L40îˆ
-
 ---
 
-## Architecture
-
-<p align="center">
-  <img src="assets/diagrams/architecture.svg" width="96%" alt="XMECK-AI public product architecture">
-</p>
-
-XMECK-AI's architecture is intentionally broader than â€œlocal chatâ€:
-
-```text
-Experience System
-      â†“
-Product Truth
-      â†“
-Sovereign Storage â”€ Intelligence Hub â”€ Project Fabric
-      â†“                    â†“                  â†“
-Managed Model Lifecycle  Capability Router   Project/Git
-                         â†™            â†˜
-                      LOCAL        CONNECTED
-                         â†“            â†“
-                      Knowledge    Providers/Web
-                         â†“
-          Ask / Research / Project / Build / Write
-                         â†“
-                   Agent Workforce
-                         â†“
-                    ProjectGuard
-                         â†“
-                      Evidence
-                         â†“
-                 Artifacts / Output
-                         â†“
-                Diagnostics/Recovery
-                         â†“
-           Lifecycle / Packaging / Update
-```
-
-### Product Truth
-
-UI presence alone does not establish readiness.
-
-XMECK distinguishes:
-
-**ready** Â· **qualified** Â· **unavailable** Â· **held**
-
-### Routing truth
-
-Routes remain explicit:
-
-- **LOCAL**
-- **CONNECTED**
-- **local artifact/tool capability**
-
-Private/local operation is designed to avoid silent cloud fallback.
-
-### Authority
-
-Agent capability does not equal unrestricted machine authority.
-
-ProjectGuard mediates protected-context egress and side-effect authority.
-
----
-
-## Work modes + artifacts
-
-The current architecture includes:
-
-**Ask** Â· **Research** Â· **Project** Â· **Build** Â· **Write**
-
-Build mode separates proposal from side-effect execution.
-
-Qualified artifact surfaces in the engineering lineage include:
-
-- Markdown
-- Report
-- PDF
-- DOCX
-- PPTX
-- Spreadsheet
-- Code Package
-
-Image generation remains route/provider-bound rather than being implied as universally available.
-
----
-
-## Market position
-
-The local-AI desktop market already includes mature products for local inference, projects, RAG, model/provider choice, agents and tools.
-
-XMECK-AI should therefore **not** market commodity primitives as invention.
-
-Its strongest credible position is:
-
-> **A governed private-first Windows intelligence workspace for serious personal/professional knowledge and engineering work where local control, explicit routing, bounded authority, evidence and recovery matter.**
-
-The preserved product audit likewise concluded that the differentiated value is the integrated architecture rather than any single local-AI primitive. îˆ€fileciteîˆ‚turn136file0îˆ‚L447-L551îˆ
-
-See [`docs/MARKET_POSITIONING.md`](docs/MARKET_POSITIONING.md).
-
----
-
-## Engineering boundary
-
-<p align="center">
-  <img src="assets/diagrams/claim-matrix.svg" width="96%" alt="XMECK-AI public capability and claim matrix">
-</p>
-
-Current defensible public statements include:
-
-- a real Windows x64 desktop product exists;
-- the application has been installed/launched on the Founder machine;
-- local Qwen3 readiness has been observed;
-- Projects/Git/Knowledge/Intelligence/Connected/Work/Activity surfaces exist;
-- managed model identity/readiness architecture exists;
-- deterministic package/recovery/update lineage exists;
-- a signing-ready MSIX/App Installer lane exists.
-
-Not established by the current public evidence:
-
-- trusted signed commercial release;
-- universal provider qualification;
-- independent security/compliance certification;
-- PMF/revenue/retention;
-- performance/model-quality leadership;
-- global novelty/patentability.
-
-Credibility comes from **saying exactly what exists and exactly what remains held**.
-
----
-
-## Historical milestone policy
-
-The public repository preserves R1/R2 as **engineering milestones**.
-
-It does **not** ask users to choose among three active products.
-
-```text
-HISTORY
-  QBOX-AI R1 â€” engineering foundation
-  QBOX-AI R2 â€” Founder-accepted local intelligence milestone
-
-CURRENT PRODUCT
-  XMECK-AI â€” current Windows intelligence workspace
-```
-
-The preserved public-strategy audit explicitly recommended this structure instead of â€œRelease 1 = R1 / Release 2 = R2 / Release 3 = XMECK-AI.â€ îˆ€fileciteîˆ‚turn136file0îˆ‚L795-L841îˆ
-
-Detailed milestone notes:
-- [`releases/QBOX_R1_ENGINEERING_MILESTONE.md`](releases/QBOX_R1_ENGINEERING_MILESTONE.md)
-- [`releases/QBOX_R2_FOUNDER_ACCEPTANCE_MILESTONE.md`](releases/QBOX_R2_FOUNDER_ACCEPTANCE_MILESTONE.md)
-- [`releases/XMECK_AI_CURRENT_PRODUCT.md`](releases/XMECK_AI_CURRENT_PRODUCT.md)
-
----
-
-## Demo
-
-Open [`demo/index.html`](demo/index.html) for a motion-first product presentation surface.
-
-The demo is a **visual/product explanation layer**, not a substitute for executable qualification evidence.
-
----
-
-## XMECK-LAB + creator identity
+## 🧬 XMECK-LAB + creator identity
 
 ```text
 Raaj Mandale
 creator / systems architect / research identity
-        â”‚
-        â””â”€â”€ XMECK-LAB
-             â”œâ”€â”€ XRECONY
-             â”œâ”€â”€ TRANSCRIPT
-             â”‚    â””â”€â”€ KAVACH
-             â””â”€â”€ XMECK-AI
+        |
+        +-- XMECK-LAB
+             |
+             +-- XRECONY
+             |    reconstruction / structural understanding
+             |
+             +-- TRANSCRIPT
+             |    governed execution infrastructure
+             |       |
+             |       +-- KAVACH
+             |            trust / protection substrate
+             |
+             +-- XMECK-AI
+                  private-first personal intelligence workspace
 ```
 
-- Creator: https://github.com/raajmandale
-- Website: https://raajmandale.in
-- ORCID: https://orcid.org/0009-0005-9810-1655
-- XMECK-LAB: https://github.com/XMECK-LAB
-- XMECK-AI: https://github.com/XMECK-LAB/XMECK-AI
+- **Creator:** [Raaj Mandale](https://github.com/raajmandale)
+- **Website:** [raajmandale.in](https://raajmandale.in)
+- **XMECK-LAB:** [github.com/XMECK-LAB](https://github.com/XMECK-LAB)
+- **Product:** [XMECK-AI](https://github.com/XMECK-LAB/XMECK-AI)
 
 ---
 
-## Citation
+## 📚 Technical documentation
 
-Use [`CITATION.cff`](CITATION.cff) when referencing XMECK-AI in technical or research work.
+- [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)
+- [`docs/PRODUCT_FACTS.md`](docs/PRODUCT_FACTS.md)
+- [`docs/PUBLIC_CLAIMS_MATRIX.md`](docs/PUBLIC_CLAIMS_MATRIX.md)
+- [`docs/MARKET_POSITIONING.md`](docs/MARKET_POSITIONING.md)
+- [`docs/MODELS_AND_ROUTING.md`](docs/MODELS_AND_ROUTING.md)
+- [`docs/PRODUCT_EVOLUTION.md`](docs/PRODUCT_EVOLUTION.md)
+- [`docs/RELEASE_BOUNDARY.md`](docs/RELEASE_BOUNDARY.md)
+- [`docs/ECOSYSTEM.md`](docs/ECOSYSTEM.md)
+- [`docs/LINEAGE.md`](docs/LINEAGE.md)
 
 ---
 
-## Release status
+## ⚖️ License + security
 
-**Current state: internally productized Founder/engineering candidate; trusted public release authorities remain incomplete.**
+This repository is publicly visible but **not automatically open source**.
 
-A trusted downloadable public release should require:
+See [`LICENSE.txt`](LICENSE.txt) for the current rights boundary and [`SECURITY.md`](SECURITY.md) for reporting/security guidance.
 
-1. final public installer/package;
+Third-party components remain subject to their own licenses and notices.
+
+---
+
+## 📌 Release status
+
+**Current state:** internally productized Founder/engineering candidate.
+
+A normal trusted public release still requires:
+
+1. final trusted installer/package;
 2. SHA-256 checksum;
 3. trusted Publisher/signing evidence;
 4. public distribution/update authority;
 5. release notes and explicit capability boundary;
-6. final lifecycle proof for the public distribution path.
+6. lifecycle proof for the public distribution path.
 
 ---
 
 <p align="center">
   <strong>Your intelligence. Local by default. Cloud by choice.</strong><br>
-  Built by <a href="https://github.com/raajmandale">Raaj Mandale</a> Â· Published under <a href="https://github.com/XMECK-LAB">XMECK-LAB</a>
+  <strong>Build → Test → Qualify → Evolve → Productize</strong><br><br>
+  Built by <a href="https://github.com/raajmandale"><strong>Raaj Mandale</strong></a>
+  ·
+  Published under <a href="https://github.com/XMECK-LAB"><strong>XMECK-LAB</strong></a>
 </p>
-
