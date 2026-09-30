@@ -1,4 +1,4 @@
-# QBOX-AI Stage B R2
+﻿# QBOX-AI Stage B R2
 
 **Historical Founder-accepted working local-intelligence milestone in the lineage that later evolved into XMECK-AI.**
 
@@ -10,7 +10,7 @@ R2 is preserved separately because it represents a meaningful engineering progre
 
 **Lineage**
 
-`QBOX-AI R1 → QBOX-AI R2 → XMECK-AI`
+`QBOX-AI R1 â†’ QBOX-AI R2 â†’ XMECK-AI`
 
 ## What changed / matured in R2
 
@@ -66,7 +66,7 @@ Historical ZIP:
 
 Expected SHA-256:
 
-`e855035586050282a9d179f20df214826e51bba1c13cc14154e108663e98b289`
+`8e148b5751127fb76d62bf5b094618ab77d38931d0ff2e1836d86a1dae033da0`
 
 Once the Release page is published:
 
@@ -88,3 +88,4 @@ https://github.com/XMECK-LAB/XMECK-AI/releases/tag/qbox-stage-b-r2
 **Creator:** Raaj Mandale
 **Public software organization:** XMECK-LAB
 **Current product:** XMECK-AI
+
