@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700">
+<style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f5f9ff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#a6bfdc}.h{font-family:Segoe UI,Arial,sans-serif;fill:#69ceff;font-weight:700}.box{fill:#102743;stroke:#2f78c5;stroke-width:2}</style>
+<rect width="1600" height="700" rx="26" fill="#071426"/>
+<text x="70" y="68" class="t" font-size="34" font-weight="700">Current Product Surface</text>
+<text x="70" y="104" class="s" font-size="18">One Windows workspace. Separate surfaces. One consistent product truth.</text>
+<g transform="translate(70 150)">
+<rect class="box" x="0" y="0" width="310" height="120" rx="18"/><text x="28" y="42" class="h" font-size="23">Chat + Conversations</text><text x="28" y="76" class="s" font-size="17">local / qualified route</text><text x="28" y="101" class="s" font-size="17">durable conversation state</text>
+<rect class="box" x="365" y="0" width="310" height="120" rx="18"/><text x="393" y="42" class="h" font-size="23">Projects + Git</text><text x="393" y="76" class="s" font-size="17">local folder ownership</text><text x="393" y="101" class="s" font-size="17">status · diff · log · reviewed change</text>
+<rect class="box" x="730" y="0" width="310" height="120" rx="18"/><text x="758" y="42" class="h" font-size="23">Knowledge / RAG</text><text x="758" y="76" class="s" font-size="17">user-controlled sources</text><text x="758" y="101" class="s" font-size="17">retrieval + citations</text>
+<rect class="box" x="1095" y="0" width="310" height="120" rx="18"/><text x="1123" y="42" class="h" font-size="23">Intelligence</text><text x="1123" y="76" class="s" font-size="17">GGUF model lifecycle</text><text x="1123" y="101" class="s" font-size="17">discovery ≠ admission</text>
+
+<rect class="box" x="0" y="190" width="310" height="120" rx="18"/><text x="28" y="232" class="h" font-size="23">Connected</text><text x="28" y="266" class="s" font-size="17">private / connected private</text><text x="28" y="291" class="s" font-size="17">cloud assist by explicit choice</text>
+<rect class="box" x="365" y="190" width="310" height="120" rx="18"/><text x="393" y="232" class="h" font-size="23">Work</text><text x="393" y="266" class="s" font-size="17">Ask · Research · Project</text><text x="393" y="291" class="s" font-size="17">Build · Write</text>
+<rect class="box" x="730" y="190" width="310" height="120" rx="18"/><text x="758" y="232" class="h" font-size="23">ProjectGuard</text><text x="758" y="266" class="s" font-size="17">egress / side-effect authority</text><text x="758" y="291" class="s" font-size="17">scope-bound approval</text>
+<rect class="box" x="1095" y="190" width="310" height="120" rx="18"/><text x="1123" y="232" class="h" font-size="23">Activity + Evidence</text><text x="1123" y="266" class="s" font-size="17">receipts / readiness / lifecycle</text><text x="1123" y="291" class="s" font-size="17">evidence-before-claim</text>
+</g>
+<rect x="70" y="548" width="1460" height="72" rx="17" fill="#0b1d34" stroke="#ff9d39"/>
+<text x="112" y="590" class="t" font-size="20">Product law: user-owned context · explicit routing · no silent external fallback · bounded authority · visible evidence · recoverable lifecycle</text>
+</svg>

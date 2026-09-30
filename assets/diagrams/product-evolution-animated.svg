@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#06101e"/><stop offset="1" stop-color="#0b1c36"/></linearGradient>
+  <style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f4f9ff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#a6bfdc}.h{font-family:Segoe UI,Arial,sans-serif;fill:#68ccff;font-weight:700}</style>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="560" rx="26" fill="url(#bg)"/>
+<text x="70" y="70" class="t" font-size="35" font-weight="700">XMECK-AI Product Evolution</text>
+<text x="70" y="108" class="s" font-size="18">Engineering provenance is preserved without presenting three competing current products.</text>
+
+<g>
+  <rect x="70" y="165" width="390" height="230" rx="22" fill="#102743" stroke="#2f78c5" stroke-width="2"/>
+  <circle cx="125" cy="220" r="34" fill="#0b1c34" stroke="#46c8ff" stroke-width="3"/>
+  <text x="102" y="231" class="t" font-size="27" font-weight="700">R1</text>
+  <text x="180" y="214" class="h" font-size="25">QBOX-AI Stage B R1</text>
+  <text x="180" y="248" class="s" font-size="17">Startup-corrected engineering candidate</text>
+  <text x="100" y="302" class="t" font-size="18">• local-first workspace shell</text>
+  <text x="100" y="334" class="t" font-size="18">• pinned model/runtime flow</text>
+  <text x="100" y="366" class="t" font-size="18">• early chat + knowledge foundation</text>
+
+  <rect x="605" y="165" width="390" height="230" rx="22" fill="#102743" stroke="#2f78c5" stroke-width="2"/>
+  <circle cx="660" cy="220" r="34" fill="#0b1c34" stroke="#46c8ff" stroke-width="3"/>
+  <text x="637" y="231" class="t" font-size="27" font-weight="700">R2</text>
+  <text x="715" y="214" class="h" font-size="25">QBOX-AI Stage B R2</text>
+  <text x="715" y="248" class="s" font-size="17">Founder-accepted working local-intelligence candidate</text>
+  <text x="635" y="302" class="t" font-size="18">• qualification-focused packaging</text>
+  <text x="635" y="334" class="t" font-size="18">• verified local model / chat journey</text>
+  <text x="635" y="366" class="t" font-size="18">• stronger runtime acceptance discipline</text>
+
+  <rect x="1130" y="145" width="400" height="270" rx="22" fill="#142b48" stroke="#ff9d39" stroke-width="3"/>
+  <circle cx="1185" cy="205" r="38" fill="#0b1c34" stroke="#ff9d39" stroke-width="3" filter="url(#glow)"/>
+  <text x="1169" y="218" class="t" font-size="34" font-weight="700">X</text>
+  <text x="1240" y="199" class="t" font-size="30" font-weight="700">XMECK-AI</text>
+  <text x="1240" y="236" class="s" font-size="18">Current product identity</text>
+  <text x="1160" y="292" class="t" font-size="18">• Projects / Git / Knowledge</text>
+  <text x="1160" y="324" class="t" font-size="18">• managed intelligence + discovery</text>
+  <text x="1160" y="356" class="t" font-size="18">• explicit local / connected routing</text>
+  <text x="1160" y="388" class="t" font-size="18">• Work / ProjectGuard / Evidence</text>
+</g>
+
+<g stroke="#51c7ff" stroke-width="5" fill="none">
+  <path d="M460 280H605"/>
+  <path d="M995 280H1130"/>
+</g>
+<g fill="#51c7ff">
+  <path d="M585 270L605 280L585 290Z"><animate attributeName="opacity" values=".25;1;.25" dur="1.6s" repeatCount="indefinite"/></path>
+  <path d="M1110 270L1130 280L1110 290Z"><animate attributeName="opacity" values=".25;1;.25" dur="1.6s" repeatCount="indefinite"/></path>
+</g>
+
+<rect x="70" y="458" width="1460" height="54" rx="15" fill="#0b1d34" stroke="#ff9d39"/>
+<text x="115" y="492" class="t" font-size="19">Public rule: R1/R2 remain historical engineering milestones. XMECK-AI is the current product users should discover today.</text>
+</svg>

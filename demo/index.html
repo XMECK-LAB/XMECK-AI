@@ -2,30 +2,33 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>XMECK-AI — Product Visual</title>
+<title>XMECK-AI — Product Evolution</title>
 <style>
-:root{--bg:#06101e;--panel:#0c2038cc;--b:#44c9ff;--o:#ff9d39;--t:#eef8ff;--m:#9db9d8}
-*{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(circle at 68% 12%,#12385d 0,#06101e 38%,#020712 100%);color:var(--t);font-family:Segoe UI,Arial,sans-serif}
-body:before{content:"";position:fixed;inset:0;background-image:linear-gradient(#4cc9ff10 1px,transparent 1px),linear-gradient(90deg,#4cc9ff10 1px,transparent 1px);background-size:48px 48px}
-.wrap{position:relative;max-width:1450px;margin:auto;padding:42px}.top{display:flex;justify-content:space-between;color:var(--m);letter-spacing:3px}.brand{color:var(--b);font-weight:800}
-.hero{display:grid;grid-template-columns:1.1fr .9fr;align-items:center;gap:45px;min-height:430px}.copy h1{font-size:92px;line-height:.92;margin:20px 0 12px}.copy h2{font-weight:400;font-size:33px;margin:0 0 18px}.copy p{font-size:21px;line-height:1.55;color:var(--m);max-width:760px}.chips{display:flex;gap:10px;flex-wrap:wrap}.chip{border:1px solid #2d6aa6;background:#0c2039;padding:10px 15px;border-radius:999px}
-.orbWrap{height:390px;display:grid;place-items:center;position:relative}.orb{width:235px;height:235px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#85dcff,#0a5cae 36%,#071322 66%,#020711);box-shadow:0 0 80px #1d84ff88,inset -25px -20px 50px #000;position:relative;animation:float 4s ease-in-out infinite}.orb:after{content:"X";position:absolute;inset:0;display:grid;place-items:center;font-size:110px;font-weight:800;background:linear-gradient(90deg,var(--b) 0 49%,var(--o) 51%);-webkit-background-clip:text;color:transparent}
-.ring{position:absolute;width:390px;height:105px;border:2px solid var(--b);border-radius:50%;animation:spin 10s linear infinite}.r2{border-color:var(--o);transform:rotate(60deg);animation-duration:15s}
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.card{background:var(--panel);border:1px solid #295e91;border-radius:18px;padding:22px;backdrop-filter:blur(14px);transition:.25s}.card:hover{transform:translateY(-5px);border-color:var(--b)}.card b{font-size:20px}.card p{color:var(--m);line-height:1.45}.law{margin-top:26px;padding:18px;border:1px solid #8d5c25;border-radius:16px;background:#25170b75;text-align:center;color:#ffd6a5;letter-spacing:1px}
-footer{margin-top:45px;color:#7896b8;border-top:1px solid #193650;padding-top:18px}
-@keyframes spin{to{transform:rotate(360deg)}}@keyframes float{50%{transform:translateY(-14px)}}@media(max-width:900px){.hero{grid-template-columns:1fr}.copy h1{font-size:60px}.grid{grid-template-columns:1fr}}
+:root{--bg:#050e1a;--panel:#0b2038cc;--blue:#45c9ff;--orange:#ff9c38;--text:#eff8ff;--muted:#9db8d7}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 70% 10%,#11385d 0,#06101d 38%,#02060d 100%);color:var(--text);font-family:Segoe UI,Arial,sans-serif;min-height:100vh}
+body:before{content:"";position:fixed;inset:0;background-image:linear-gradient(#4cc9ff10 1px,transparent 1px),linear-gradient(90deg,#4cc9ff10 1px,transparent 1px);background-size:46px 46px;pointer-events:none}
+.wrap{max-width:1480px;margin:auto;padding:40px;position:relative}.top{display:flex;justify-content:space-between;letter-spacing:3px;color:var(--muted)}.brand{color:var(--blue);font-weight:800}
+.hero{display:grid;grid-template-columns:1.1fr .9fr;align-items:center;gap:40px;min-height:390px}.copy h1{font-size:90px;line-height:.95;margin:20px 0 12px}.copy h2{font-size:31px;font-weight:400;margin:0 0 16px}.copy p{font-size:20px;color:var(--muted);line-height:1.55}.chips{display:flex;gap:10px;flex-wrap:wrap}.chip{border:1px solid #2c6da9;background:#0b2038;padding:10px 14px;border-radius:999px}
+.orbWrap{height:360px;display:grid;place-items:center;position:relative}.orb{width:220px;height:220px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#84ddff,#0b5fac 38%,#071323 67%,#020711);box-shadow:0 0 80px #248cff77,inset -24px -20px 46px #000;position:relative;animation:float 4s ease-in-out infinite}.orb:after{content:"X";position:absolute;inset:0;display:grid;place-items:center;font-size:105px;font-weight:800;background:linear-gradient(90deg,var(--blue) 0 49%,var(--orange) 51%);-webkit-background-clip:text;color:transparent}.ring{position:absolute;width:370px;height:100px;border:2px solid var(--blue);border-radius:50%;animation:spin 10s linear infinite}.r2{border-color:var(--orange);transform:rotate(60deg);animation-duration:15s}
+.timeline{display:grid;grid-template-columns:1fr 90px 1fr 90px 1.15fr;align-items:stretch;margin-top:30px}.stage{background:var(--panel);border:1px solid #2b6298;border-radius:20px;padding:24px;min-height:230px;backdrop-filter:blur(14px)}.stage.current{border-color:var(--orange);box-shadow:0 0 35px #ff9c3820}.badge{display:inline-flex;width:52px;height:52px;border-radius:50%;align-items:center;justify-content:center;border:2px solid var(--blue);font-size:22px;font-weight:800}.current .badge{border-color:var(--orange)}.stage h3{font-size:24px;margin:16px 0 10px}.stage p,.stage li{color:var(--muted);line-height:1.45}.arrow{display:grid;place-items:center;color:var(--blue);font-size:40px;animation:pulse 1.6s ease-in-out infinite}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:30px}.card{background:var(--panel);border:1px solid #2b6298;border-radius:18px;padding:20px}.card b{font-size:19px}.card p{color:var(--muted);line-height:1.4}.law{margin-top:28px;border:1px solid #8d5c25;background:#25170b66;border-radius:16px;padding:18px;text-align:center;color:#ffd5a2;letter-spacing:1px}footer{margin-top:42px;border-top:1px solid #17324d;padding-top:18px;color:#7897b8}
+@keyframes spin{to{transform:rotate(360deg)}}@keyframes float{50%{transform:translateY(-12px)}}@keyframes pulse{50%{opacity:.35;transform:translateX(8px)}}@media(max-width:900px){.hero{grid-template-columns:1fr}.copy h1{font-size:58px}.timeline{grid-template-columns:1fr}.arrow{transform:rotate(90deg);height:50px}.grid{grid-template-columns:1fr}}
 </style></head>
 <body><div class="wrap">
-<div class="top"><div class="brand">XMECK-LAB</div><div>PUBLIC PRODUCT VISUAL · NOT EXECUTABLE PROOF</div></div>
-<section class="hero"><div class="copy"><h1>XMECK-AI</h1><h2>Private-first Personal Intelligence Workspace</h2><p>Your intelligence. Local by default. Cloud by choice. One Windows workspace for local intelligence, Projects/Git, Knowledge, governed connections, bounded work and evidence.</p><div class="chips"><span class="chip">Local Intelligence</span><span class="chip">Projects / Git</span><span class="chip">Knowledge / RAG</span><span class="chip">Connected</span><span class="chip">ProjectGuard</span><span class="chip">Evidence</span></div></div><div class="orbWrap"><div class="ring"></div><div class="ring r2"></div><div class="orb"></div></div></section>
-<section class="grid">
-<div class="card"><b>Product Truth</b><p>Ready, qualified, unavailable and held remain distinct product states.</p></div>
-<div class="card"><b>Managed Intelligence</b><p>Model discovery is not admission; routing follows governed readiness.</p></div>
-<div class="card"><b>Projects</b><p>User-owned folders, local Git visibility and read-only-by-default access.</p></div>
-<div class="card"><b>Connected</b><p>External providers are optional, explicit and never a silent fallback.</p></div>
-<div class="card"><b>Bounded Work</b><p>Ask, Research, Project, Build and Write with authority before side effect.</p></div>
-<div class="card"><b>Evidence + Recovery</b><p>Important state, actions, lifecycle and release claims bind to evidence.</p></div>
+<div class="top"><div class="brand">XMECK-LAB</div><div>PRODUCT EVOLUTION · PUBLIC PRESENTATION SURFACE</div></div>
+<section class="hero"><div class="copy"><h1>XMECK-AI</h1><h2>Private-first Personal Intelligence Workspace</h2><p>From QBOX-AI engineering candidates to a governed Windows workspace for local intelligence, Projects/Git, Knowledge, explicit connected routing, bounded work and evidence.</p><div class="chips"><span class="chip">Windows x64</span><span class="chip">Local-first</span><span class="chip">Projects/Git</span><span class="chip">Knowledge/RAG</span><span class="chip">Managed GGUF</span><span class="chip">ProjectGuard</span></div></div><div class="orbWrap"><div class="ring"></div><div class="ring r2"></div><div class="orb"></div></div></section>
+<section class="timeline">
+<div class="stage"><span class="badge">R1</span><h3>QBOX-AI Stage B R1</h3><p>Engineering foundation / startup-corrected Founder candidate.</p><ul><li>workspace shell</li><li>pinned model/runtime path</li><li>chat + knowledge foundation</li></ul></div>
+<div class="arrow">→</div>
+<div class="stage"><span class="badge">R2</span><h3>QBOX-AI Stage B R2</h3><p>Founder-accepted working local-intelligence milestone.</p><ul><li>qualification structure</li><li>exact model admission</li><li>working local chat path</li></ul></div>
+<div class="arrow">→</div>
+<div class="stage current"><span class="badge">X</span><h3>XMECK-AI</h3><p>Current product identity.</p><ul><li>Projects / Git / Knowledge</li><li>managed intelligence + discovery</li><li>private / connected routing</li><li>Work / ProjectGuard / Evidence</li></ul></div>
 </section>
-<div class="law">USER-OWNED CONTEXT · EXPLICIT ROUTING · AUTHORITY BEFORE SIDE EFFECT · EVIDENCE BEFORE CLAIM</div>
-<footer>By Raaj Mandale · Published under XMECK-LAB · Windows x64 current product lineage.</footer>
+<section class="grid">
+<div class="card"><b>Product Truth</b><p>UI presence is not readiness. Ready, held and qualified remain separate states.</p></div>
+<div class="card"><b>Managed Intelligence</b><p>Discovery → identity → hardware → runtime → inference → role → route.</p></div>
+<div class="card"><b>Explicit Routing</b><p>Local by default. Connected only when configured, qualified and chosen.</p></div>
+<div class="card"><b>Evidence</b><p>Important readiness, lifecycle and side effects bind to observable state.</p></div>
+</section>
+<div class="law">R1 / R2 = ENGINEERING PROVENANCE · XMECK-AI = CURRENT PRODUCT</div>
+<footer>By Raaj Mandale · Published under XMECK-LAB · Visual presentation does not replace executable qualification evidence.</footer>
 </div></body></html>
