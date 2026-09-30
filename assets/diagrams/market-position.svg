@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="650" viewBox="0 0 1600 650">
+<style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f5f9ff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#a8c0dc}.h{font-family:Segoe UI,Arial,sans-serif;fill:#6bd0ff;font-weight:700}.box{fill:#102743;stroke:#2f78c5;stroke-width:2}</style>
+<rect width="1600" height="650" rx="28" fill="#071426"/>
+<text x="70" y="70" class="t" font-size="35" font-weight="700">Market Position — Do Not Compete as “Another Local Chat App”</text>
+<text x="70" y="108" class="s" font-size="18">Local inference, projects, RAG, agents, provider choice and privacy messaging are established category capabilities.</text>
+<g>
+  <rect class="box" x="70" y="160" width="350" height="190" rx="18"/>
+  <text x="100" y="205" class="h" font-size="24">Jan / LM Studio</text>
+  <text x="100" y="244" class="s" font-size="17">Strong local model experience</text>
+  <text x="100" y="274" class="s" font-size="17">offline/local APIs/providers</text>
+  <text x="100" y="304" class="s" font-size="17">fast ecosystem breadth</text>
+
+  <rect class="box" x="470" y="160" width="350" height="190" rx="18"/>
+  <text x="500" y="205" class="h" font-size="24">AnythingLLM / Open WebUI</text>
+  <text x="500" y="244" class="s" font-size="17">Knowledge/RAG + tools</text>
+  <text x="500" y="274" class="s" font-size="17">agents/extensions/providers</text>
+  <text x="500" y="304" class="s" font-size="17">self-hosted / broad integration</text>
+
+  <rect x="870" y="160" width="660" height="190" rx="18" fill="#142a46" stroke="#ff9d39" stroke-width="3"/>
+  <text x="905" y="205" class="t" font-size="26" font-weight="700">XMECK-AI wedge</text>
+  <text x="905" y="244" class="s" font-size="18">Private-first Windows intelligence workspace for serious personal/professional work</text>
+  <text x="905" y="280" class="s" font-size="18">Product Truth · explicit route truth · bounded authority · evidence · recovery</text>
+  <text x="905" y="316" class="s" font-size="18">Project/Git/Knowledge continuity under one governed product lifecycle</text>
+</g>
+<rect x="70" y="415" width="1460" height="135" rx="18" fill="#0c2038" stroke="#3b83c9"/>
+<text x="105" y="458" class="t" font-size="24" font-weight="700">Credibility rule</text>
+<text x="105" y="496" class="s" font-size="18">Do not claim global novelty, patentability, PMF, security certification, performance leadership, or a trusted signed commercial release.</text>
+<text x="105" y="530" class="s" font-size="18">Value the work through precise engineering facts: what is qualified, what is held, what is user-owned, and what the architecture deliberately prevents.</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#06101e"/><stop offset="1" stop-color="#0b1d37"/></linearGradient>
+  <style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f4f9ff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#9ebada}.h{font-family:Segoe UI,Arial,sans-serif;fill:#69ceff;font-weight:700}.box{fill:#102743;stroke:#2f78c5;stroke-width:2}</style>
+</defs>
+<rect width="1600" height="820" rx="28" fill="url(#bg)"/>
+<text x="70" y="70" class="t" font-size="36" font-weight="700">XMECK-AI — Public Product Architecture</text>
+<text x="70" y="108" class="s" font-size="19">.NET 8 WPF · Windows x64 · local-first routing · governed connected capability · evidence-bound lifecycle</text>
+
+<g>
+  <rect class="box" x="70" y="160" width="300" height="125" rx="18"/>
+  <text class="h" x="100" y="205" font-size="25">Experience System</text>
+  <text class="s" x="100" y="242" font-size="18">Home · Chat · Projects · Knowledge</text>
+  <text class="s" x="100" y="269" font-size="18">Intelligence · Connected · Work · Activity</text>
+
+  <rect class="box" x="450" y="160" width="300" height="125" rx="18"/>
+  <text class="h" x="480" y="205" font-size="25">Product Truth</text>
+  <text class="s" x="480" y="242" font-size="18">ready · qualified · unavailable · held</text>
+  <text class="s" x="480" y="269" font-size="18">UI presence ≠ readiness</text>
+
+  <rect class="box" x="830" y="160" width="300" height="125" rx="18"/>
+  <text class="h" x="860" y="205" font-size="25">Capability Router</text>
+  <text class="s" x="860" y="242" font-size="18">LOCAL · CONNECTED · ARTIFACT/TOOL</text>
+  <text class="s" x="860" y="269" font-size="18">no silent cloud fallback</text>
+
+  <rect class="box" x="1210" y="160" width="300" height="125" rx="18"/>
+  <text class="h" x="1240" y="205" font-size="25">Evidence Plane</text>
+  <text class="s" x="1240" y="242" font-size="18">receipts · readiness · activity</text>
+  <text class="s" x="1240" y="269" font-size="18">claim binding</text>
+</g>
+
+<g stroke="#45bdf5" stroke-width="4" fill="none">
+  <path d="M370 222H450"/><path d="M750 222H830"/><path d="M1130 222H1210"/>
+</g>
+
+<g>
+  <rect class="box" x="85" y="380" width="315" height="155" rx="18"/>
+  <text class="h" x="115" y="425" font-size="25">Intelligence Hub</text>
+  <text class="s" x="115" y="462" font-size="18">GGUF model lifecycle</text>
+  <text class="s" x="115" y="491" font-size="18">identity → hardware → runtime</text>
+  <text class="s" x="115" y="520" font-size="18">inference → role → route eligibility</text>
+
+  <rect class="box" x="465" y="380" width="315" height="155" rx="18"/>
+  <text class="h" x="495" y="425" font-size="25">Project Fabric</text>
+  <text class="s" x="495" y="462" font-size="18">local folder binding · Git state</text>
+  <text class="s" x="495" y="491" font-size="18">Knowledge association</text>
+  <text class="s" x="495" y="520" font-size="18">read-only by default</text>
+
+  <rect class="box" x="845" y="380" width="315" height="155" rx="18"/>
+  <text class="h" x="875" y="425" font-size="25">Work + Agents</text>
+  <text class="s" x="875" y="462" font-size="18">Ask · Research · Project</text>
+  <text class="s" x="875" y="491" font-size="18">Build · Write</text>
+  <text class="s" x="875" y="520" font-size="18">bounded transitions / no ambient authority</text>
+
+  <rect class="box" x="1225" y="380" width="290" height="155" rx="18"/>
+  <text class="h" x="1255" y="425" font-size="25">ProjectGuard</text>
+  <text class="s" x="1255" y="462" font-size="18">protected-context egress</text>
+  <text class="s" x="1255" y="491" font-size="18">side-effect authority</text>
+  <text class="s" x="1255" y="520" font-size="18">scope-bound approval</text>
+</g>
+
+<g stroke="#ff9f3c" stroke-width="3" fill="none">
+  <path d="M980 285L242 380"/><path d="M980 285L622 380"/><path d="M980 285L1002 380"/><path d="M980 285L1370 380"/>
+</g>
+
+<rect x="85" y="625" width="1430" height="110" rx="18" fill="#0b1d34" stroke="#ff9d39" stroke-width="2"/>
+<text x="120" y="667" class="t" font-size="22" font-weight="700">Lifecycle + Recovery</text>
+<text x="120" y="705" class="s" font-size="18">install · repair · update · app-only uninstall · reinstall · state preservation · SBOM/provenance · recovery carrier · signing-ready MSIX/App Installer lane</text>
+<text x="120" y="741" class="s" font-size="17">Trusted signing and production update hosting remain external release authorities until real evidence exists.</text>
+</svg>

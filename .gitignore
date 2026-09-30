@@ -1,0 +1,17 @@
+bin/
+obj/
+out/
+artifacts/
+models/
+runtime/
+*.gguf
+*.onnx
+*.safetensors
+*.pfx
+*.snk
+*.user
+*.suo
+.vs/
+.idea/
+.env
+.env.*

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "XMECK-AI"
+message: "If you reference XMECK-AI in technical or research work, please cite this software."
+type: software
+authors:
+  - family-names: "Mandale"
+    given-names: "Raaj"
+    orcid: "https://orcid.org/0009-0005-9810-1655"
+    affiliation: "XMECK-LAB"
+version: "1.0.0.0"
+repository-code: "https://github.com/XMECK-LAB/XMECK-AI"
+url: "https://github.com/XMECK-LAB/XMECK-AI"
+abstract: >-
+  XMECK-AI is a Windows private-first personal intelligence workspace combining
+  local intelligence, Projects/Git, Knowledge/RAG, explicit local/connected routing,
+  bounded Work modes, ProjectGuard authority, Activity/Evidence and recoverable
+  product lifecycle under one product identity.
+keywords:
+  - local AI
+  - private-first AI
+  - Windows AI workspace
+  - projects
+  - RAG
+  - governed agents
+  - evidence
+  - local LLM

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760">
+<style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f5f9ff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#a8c0dc}.ok{fill:#1d9b68}.hold{fill:#d9902c}.future{fill:#6b7890}.box{fill:#102743;stroke:#315f91;stroke-width:2}</style>
+<rect width="1600" height="760" rx="28" fill="#071426"/>
+<text x="70" y="70" class="t" font-size="35" font-weight="700">XMECK-AI — Public Capability / Claim Matrix</text>
+<text x="70" y="108" class="s" font-size="18">A feature is not described as commercially ready merely because code or UI exists.</text>
+
+<g transform="translate(70 160)">
+  <rect class="box" width="1460" height="500" rx="20"/>
+  <text x="35" y="55" class="t" font-size="24" font-weight="700">Capability</text>
+  <text x="800" y="55" class="t" font-size="24" font-weight="700">Public state</text>
+  <text x="1035" y="55" class="t" font-size="24" font-weight="700">Boundary</text>
+
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="18">
+    <text x="35" y="105" class="t">Windows WPF shell · conversations · factory local chat</text><circle cx="825" cy="99" r="9" class="ok"/><text x="850" y="105" class="t">Qualified</text><text x="1035" y="105" class="s">Windows x64</text>
+    <text x="35" y="155" class="t">Managed GGUF lifecycle · hardware/runtime/inference proof</text><circle cx="825" cy="149" r="9" class="ok"/><text x="850" y="155" class="t">Qualified architecture</text><text x="1035" y="155" class="s">each artifact earns readiness</text>
+    <text x="35" y="205" class="t">Projects · local Git boundary · Knowledge/RAG</text><circle cx="825" cy="199" r="9" class="ok"/><text x="850" y="205" class="t">Qualified</text><text x="1035" y="205" class="s">external ownership preserved</text>
+    <text x="35" y="255" class="t">Ask · Research · Project · Build · Write</text><circle cx="825" cy="249" r="9" class="ok"/><text x="850" y="255" class="t">Qualified</text><text x="1035" y="255" class="s">mode / authority bounded</text>
+    <text x="35" y="305" class="t">Agent Workforce · ProjectGuard · Activity/Evidence</text><circle cx="825" cy="299" r="9" class="ok"/><text x="850" y="305" class="t">Qualified bounded runtime</text><text x="1035" y="305" class="s">not unrestricted control</text>
+    <text x="35" y="355" class="t">Connected providers</text><circle cx="825" cy="349" r="9" class="hold"/><text x="850" y="355" class="t">Contract-qualified</text><text x="1035" y="355" class="s">live credentials/role proof required</text>
+    <text x="35" y="405" class="t">GitHub live account / app boundary</text><circle cx="825" cy="399" r="9" class="hold"/><text x="850" y="405" class="t">External HOLD</text><text x="1035" y="405" class="s">real account/repo proof required</text>
+    <text x="35" y="455" class="t">MSIX / App Installer</text><circle cx="825" cy="449" r="9" class="hold"/><text x="850" y="455" class="t">Signing-ready</text><text x="1035" y="455" class="s">trusted public signing still external HOLD</text>
+    <text x="35" y="505" class="t">Voice · mobile · macOS/Linux · unrestricted browser control</text><circle cx="825" cy="499" r="9" class="future"/><text x="850" y="505" class="t">Not current V1 scope</text><text x="1035" y="505" class="s">future authority</text>
+  </g>
+</g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="title desc">
+<title id="title">XMECK-AI — Private-first Personal Intelligence Workspace</title>
+<desc id="desc">Animated XMECK-AI public hero showing local intelligence, projects, knowledge, governed connections, bounded work and evidence.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0" stop-color="#06101e"/>
+    <stop offset=".55" stop-color="#0a1730"/>
+    <stop offset="1" stop-color="#07101d"/>
+  </linearGradient>
+  <linearGradient id="xg" x1="0" x2="1">
+    <stop offset="0" stop-color="#50ccff"/>
+    <stop offset=".48" stop-color="#117ee8"/>
+    <stop offset=".52" stop-color="#ff9a31"/>
+    <stop offset="1" stop-color="#ffc067"/>
+  </linearGradient>
+  <radialGradient id="orb">
+    <stop offset="0" stop-color="#1f75c6" stop-opacity=".6"/>
+    <stop offset=".55" stop-color="#0a1831" stop-opacity=".9"/>
+    <stop offset="1" stop-color="#020713"/>
+  </radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="540" rx="30" fill="url(#bg)"/>
+<g opacity=".16" stroke="#55c9ff">
+  <path d="M0 88H1600M0 452H1600"/>
+  <path d="M160 0V540M1440 0V540"/>
+</g>
+
+<g transform="translate(1215 270)">
+  <circle r="132" fill="url(#orb)" stroke="#2f8fe9" stroke-width="2"/>
+  <ellipse rx="190" ry="54" fill="none" stroke="#4fc8ff" stroke-width="2" opacity=".7">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse rx="172" ry="72" fill="none" stroke="#ff9b37" stroke-width="2" opacity=".7" transform="rotate(56)">
+    <animateTransform attributeName="transform" type="rotate" from="56" to="416" dur="16s" repeatCount="indefinite"/>
+  </ellipse>
+  <path d="M-64-74 L-15-22 L-65 34 L-40 60 L12 5 L65 60 L90 34 L38-20 L89-74 L62-97 L12-44 L-40-98 Z"
+        fill="url(#xg)" filter="url(#glow)"/>
+  <circle r="5" fill="#fff">
+    <animate attributeName="r" values="4;8;4" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".5;1;.5" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g font-family="Segoe UI,Arial,sans-serif" fill="#fff">
+  <text x="78" y="92" font-size="22" fill="#6fd2ff" letter-spacing="5">XMECK-LAB · PUBLIC SOFTWARE</text>
+  <text x="78" y="192" font-size="84" font-weight="750">XMECK-AI</text>
+  <text x="80" y="247" font-size="33" fill="#dceeff">Private-first Personal Intelligence Workspace</text>
+  <text x="80" y="300" font-size="25" fill="#9db9d9">Your intelligence. Local by default. Cloud by choice.</text>
+  <text x="80" y="357" font-size="20" fill="#70ccff">Projects · Knowledge · Local Intelligence · Governed Connections · Work · Activity &amp; Evidence</text>
+  <text x="80" y="411" font-size="18" fill="#ffb15a" letter-spacing="2">USER-OWNED CONTEXT · EXPLICIT ROUTING · AUTHORITY BEFORE SIDE EFFECT · EVIDENCE BEFORE CLAIM</text>
+  <text x="80" y="478" font-size="15" fill="#a7bfd9">BY RAAJ MANDALE · PUBLISHED UNDER XMECK-LAB · WINDOWS x64 PRODUCT LINEAGE</text>
+</g>
+</svg>

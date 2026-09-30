@@ -1,0 +1,25 @@
+{
+  "package": "XMECK_AI_PUBLIC_REPO_FINAL_POLISH_2026-09-30",
+  "basis": [
+    "raajmandale/QBOX-AI-Stage-B private engineering repository",
+    "XMECK-AI-ABC canonical branch",
+    "Founder current installed-product screenshots 2026-09-30",
+    "current market documentation research 2026-09-30"
+  ],
+  "screenshots_copied": [
+    "01-command-center-setup-required.png",
+    "02-navigation-expanded.png",
+    "03-local-chat-ready.png",
+    "04-web-assistants-handoff.png",
+    "05-connected-operating-modes.png",
+    "06-project-git-workspace.png",
+    "07-intelligence-readiness.png",
+    "08-model-storage-discovery.png",
+    "09-gguf-discovery-results.png"
+  ],
+  "public_product": "XMECK-AI",
+  "organization": "XMECK-LAB",
+  "creator": "Raaj Mandale",
+  "baseline_version": "1.0.0.0",
+  "claim_boundary": "internally productized Founder/engineering candidate; trusted signed public release authorities still incomplete"
+}

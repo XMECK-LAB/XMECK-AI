@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="430" viewBox="0 0 1600 430">
+<style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f5f9ff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#a5c0df}.box{fill:#102743;stroke:#2f7ac5;stroke-width:2}</style>
+<rect width="1600" height="430" rx="26" fill="#071426"/>
+<text x="70" y="68" class="t" font-size="34" font-weight="700">Managed Local Intelligence — Readiness Path</text>
+<text x="70" y="104" class="s" font-size="18">Discovery metadata is not admission. A model becomes routable only after the governed readiness chain.</text>
+<g transform="translate(70 165)">
+  <rect class="box" x="0" y="0" width="185" height="95" rx="16"/><text class="t" x="33" y="43" font-size="21">Identity</text><text class="s" x="26" y="72" font-size="15">artifact + SHA-256</text>
+  <rect class="box" x="225" y="0" width="185" height="95" rx="16"/><text class="t" x="252" y="43" font-size="21">Hardware</text><text class="s" x="246" y="72" font-size="15">eligibility</text>
+  <rect class="box" x="450" y="0" width="185" height="95" rx="16"/><text class="t" x="486" y="43" font-size="21">Runtime</text><text class="s" x="478" y="72" font-size="15">exact package</text>
+  <rect class="box" x="675" y="0" width="185" height="95" rx="16"/><text class="t" x="708" y="43" font-size="21">Inference</text><text class="s" x="705" y="72" font-size="15">proof</text>
+  <rect class="box" x="900" y="0" width="185" height="95" rx="16"/><text class="t" x="927" y="43" font-size="21">Role</text><text class="s" x="922" y="72" font-size="15">qualification</text>
+  <rect x="1125" y="0" width="250" height="95" rx="16" fill="#142d48" stroke="#ff9d39" stroke-width="2"/><text class="t" x="1172" y="43" font-size="21">Routing Eligible</text><text class="s" x="1178" y="72" font-size="15">only after readiness</text>
+  <g stroke="#51c6ff" stroke-width="4"><path d="M185 48H225"/><path d="M410 48H450"/><path d="M635 48H675"/><path d="M860 48H900"/><path d="M1085 48H1125"/></g>
+</g>
+<text x="70" y="350" class="s" font-size="17">Reference profile: Qwen3-8B Q4_K_M · llama.cpp pinned runtime · GGUF weights remain user-owned and are not redistributed by the repository.</text>
+</svg>
