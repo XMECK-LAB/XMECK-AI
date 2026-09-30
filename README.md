@@ -1,4 +1,4 @@
-# QBOX-AI Stage B R1
+﻿# QBOX-AI Stage B R1
 
 **Historical engineering branch of the product lineage that later evolved into XMECK-AI.**
 
@@ -10,7 +10,7 @@ This branch preserves a browsable public snapshot of the early QBOX-AI Stage B R
 
 **Lineage**
 
-`QBOX-AI R1 → QBOX-AI R2 → XMECK-AI`
+`QBOX-AI R1 â†’ QBOX-AI R2 â†’ XMECK-AI`
 
 ## What the preserved R1 package shows
 
@@ -60,7 +60,7 @@ Historical ZIP:
 
 Expected SHA-256:
 
-`a1da51446ec216134af6a091dfae71cd57f2dd4cd13c2708591c2ef1faefb2e6`
+`5188f023d8974c4132509b0a86f93659ca1ead5cb9915412569e730c733c11e4`
 
 Once the Release page is published:
 
@@ -80,3 +80,4 @@ https://github.com/XMECK-LAB/XMECK-AI/releases/tag/qbox-stage-b-r1
 **Creator:** Raaj Mandale
 **Public software organization:** XMECK-LAB
 **Current product:** XMECK-AI
+
