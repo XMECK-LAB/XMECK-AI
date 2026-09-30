@@ -1,0 +1,4 @@
+QBOX-AI engineering candidate notices
+Qwen3 model repositories: Apache-2.0; model weights are not redistributed in this package.
+llama.cpp: MIT; exact source commit recorded in COMPONENT_MANIFEST.json.
+Application source remains engineering-stage and is not represented as a release.

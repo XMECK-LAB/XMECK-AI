@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "canonical_commit": "5d06ecbb71167348395cb915d5e13507fce8674b",
+  "runtime_commit": "4f37f519722aa3242eecb7649466b4a4a2d6d6da",
+  "chat_model_sha256": "d98cdcbd03e17ce47681435b5150e34c1417f50b5c0019dd560e4882c5745785",
+  "embedding_model_sha256": "06507c7b42688469c4e7298b0a1e16deff06caf291cf0a5b278c308249c3e439",
+  "manual_model_acquisition": true,
+  "stage": "B",
+  "claims": []
+}

@@ -1,0 +1,22 @@
+{
+  "title": "QBOX-AI — Local Intelligence Workspace",
+  "button_names": [
+    "Home",
+    "AI Workspace",
+    "Conversations",
+    "Projects",
+    "Knowledge",
+    "Models & Runtimes",
+    "Agents & Tools",
+    "Privacy & ProjectGuard",
+    "Diagnostics",
+    "Settings",
+    "Cancel active operation",
+    "Set up model",
+    "Open AI Workspace"
+  ],
+  "window_state": "minimize-maximize-restore exercised",
+  "sustained_launch_seconds": 8,
+  "corrupt_state_recovery": "exercised",
+  "dpi_contract": "PerMonitorV2 manifest"
+}
