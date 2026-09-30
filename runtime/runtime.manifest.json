@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "id": "runtime.llamacpp.cpu",
+  "commit": "4f37f519722aa3242eecb7649466b4a4a2d6d6da",
+  "sha256": "19a0c6c211b541a4369f839859d12b8a0d9b70daed17957c679697a9e7484f8a",
+  "backend": "cpu",
+  "network": "loopback-authenticated",
+  "claims": "engineering-only"
+}

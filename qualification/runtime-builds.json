@@ -1,0 +1,8 @@
+{
+  "gate": "RT-01",
+  "status": "PASS",
+  "commit": "4f37f519722aa3242eecb7649466b4a4a2d6d6da",
+  "raw_a": "19a0c6c211b541a4369f839859d12b8a0d9b70daed17957c679697a9e7484f8a",
+  "raw_b": "4c6d85e3488d03d582fcfc3d272ba95c20cdfba0ab7f99f7d8f3b23af54549d3",
+  "raw_equal": false
+}

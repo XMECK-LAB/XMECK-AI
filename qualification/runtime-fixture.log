@@ -1,0 +1,8 @@
+STAGE verify
+STAGE start
+STAGE ready
+STAGE streamed
+STAGE cancelled
+STAGE restarted
+STAGE completed
+PASS fixture-auth-stream-cancel-restart

@@ -1,0 +1,34 @@
+PASS bounded history
+PASS history clear
+PASS deterministic citations
+PASS citation projection
+PASS empty citation query
+PASS path redaction
+PASS document accounting
+PASS oversize refusal
+PASS frozen identities
+PASS immutable official model URL
+PASS model mismatch
+PASS model verification cancellation
+PASS unsafe store name
+PASS loopback runtime plan
+PASS authenticated bounded runtime plan
+PASS runtime executable refusal
+PASS runtime weak key refusal
+PASS component registry
+PASS conversation identity refusal
+PASS diagnostic path redaction
+PASS guard absolute path refusal
+PASS guard traversal refusal
+PASS guard write denied by default
+PASS project snapshot bounded
+PASS state atomic roundtrip
+PASS state null model quarantine
+PASS state future version preserved
+PASS state traversal model refusal
+PASS conversation crud search
+PASS knowledge duplicate identity
+PASS stream ordered deltas
+PASS stream cancellation
+PASS expanded secret redaction
+RESULT 33/33

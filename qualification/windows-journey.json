@@ -1,0 +1,34 @@
+[
+  {
+    "case": "future",
+    "window_live": true,
+    "exception_absent": true
+  },
+  {
+    "case": "malformed",
+    "window_live": true,
+    "exception_absent": true
+  },
+  {
+    "case": "nullfile",
+    "window_live": true,
+    "exception_absent": true
+  },
+  {
+    "case": "nullroot",
+    "window_live": true,
+    "exception_absent": true
+  },
+  {
+    "case": "traversal",
+    "window_live": true,
+    "exception_absent": true
+  },
+  {
+    "case": "clean-sustained",
+    "window_live": true,
+    "seconds": 8,
+    "window_states": "max-min-restore",
+    "journeys": "conversation-project"
+  }
+]

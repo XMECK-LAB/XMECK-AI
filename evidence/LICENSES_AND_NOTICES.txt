@@ -1,0 +1,4 @@
+QBOX-AI engineering candidate notices
+Qwen3 repositories: Apache-2.0; weights not redistributed.
+llama.cpp: MIT; exact source commit recorded.
+No private, offline, security, performance, product-admission or release claim.

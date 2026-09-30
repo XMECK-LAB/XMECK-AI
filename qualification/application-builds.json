@@ -1,0 +1,6 @@
+{
+  "gate": "PKG-01",
+  "status": "PASS",
+  "source_roots": 2,
+  "application_sha256": "ac40de799189c722b346c7eb3cfe3055838f0e4c4c08a9716c933378f59bd80c"
+}

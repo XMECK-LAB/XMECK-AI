@@ -1,0 +1,9 @@
+{
+  "gate": "SOURCE-01",
+  "status": "PASS",
+  "commit": "c30a61e6d987101e8c55747a5b14bf0959876725",
+  "ref": "refs/heads/main",
+  "vs": "18.9.12112.369",
+  "sdk": "x86",
+  "dotnet": "10.0.400"
+}
