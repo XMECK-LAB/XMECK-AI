@@ -1,25 +1,32 @@
 {
-  "package": "XMECK_AI_PUBLIC_REPO_FINAL_POLISH_2026-09-30",
-  "basis": [
-    "raajmandale/QBOX-AI-Stage-B private engineering repository",
-    "XMECK-AI-ABC canonical branch",
-    "Founder current installed-product screenshots 2026-09-30",
-    "current market documentation research 2026-09-30"
-  ],
-  "screenshots_copied": [
-    "01-command-center-setup-required.png",
-    "02-navigation-expanded.png",
-    "03-local-chat-ready.png",
-    "04-web-assistants-handoff.png",
-    "05-connected-operating-modes.png",
-    "06-project-git-workspace.png",
-    "07-intelligence-readiness.png",
-    "08-model-storage-discovery.png",
-    "09-gguf-discovery-results.png"
-  ],
-  "public_product": "XMECK-AI",
-  "organization": "XMECK-LAB",
+  "schema": "XMECK-AI/PUBLIC-REPOSITORY-STATE/2",
+  "date": "2026-10-01",
+  "repository": "XMECK-LAB/XMECK-AI",
   "creator": "Raaj Mandale",
-  "baseline_version": "1.0.0.0",
-  "claim_boundary": "internally productized Founder/engineering candidate; trusted signed public release authorities still incomplete"
+  "organization": "XMECK-LAB",
+  "current_product": "XMECK-AI",
+  "version": "1.0.0.0",
+  "main_candidate": {
+    "file": "XMECK-AI_FINAL_FOUNDER_CANDIDATE_1.0.0.0.zip",
+    "sha256": "0b3c346e2b9df7d8ee121f3451db0ef98ee340096a26b8f4a313cdbca44e1dd3",
+    "publication_commit": "06a62d8feefcb1a7f6ff92359bec75866f887eb0",
+    "binding_commit": "f12933d413e2014b71dc8fddf079bc668702a68a"
+  },
+  "historical_builds": {
+    "r1": {
+      "branch": "history/qbox-r1",
+      "file": "QBOX-AI_STAGE-B_R1_HISTORICAL_WINDOWS-x64.zip",
+      "sha256": "5188f023d8974c4132509b0a86f93659ca1ead5cb9915412569e730c733c11e4"
+    },
+    "r2": {
+      "branch": "history/qbox-r2",
+      "file": "QBOX-AI_STAGE-B_R2_HISTORICAL_WINDOWS-x64.zip",
+      "sha256": "8e148b5751127fb76d62bf5b094618ab77d38931d0ff2e1836d86a1dae033da0"
+    }
+  },
+  "claim_boundary": {
+    "trusted_signing": "HOLD_EXTERNAL_SIGNING_IDENTITY",
+    "production_update_host": "HOLD_EXTERNAL_UPDATE_SOURCE",
+    "commercial_release": "NOT_ADMITTED"
+  }
 }

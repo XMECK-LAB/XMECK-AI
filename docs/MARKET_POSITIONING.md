@@ -1,75 +1,48 @@
-# XMECK-AI Market Positioning — September 2026
+# XMECK-AI Market Positioning — October 2026
 
 ## Category reality
 
-By 2026, these capabilities are established across the desktop/local AI market:
+Local inference, offline chat, projects/workspaces, document RAG, model/provider choice, agents and tool ecosystems are established capabilities in the current desktop/local-AI category.
 
-- local inference and offline chat;
-- projects/workspaces;
-- document knowledge/RAG;
-- local + cloud provider choice;
-- agents/tool calling;
-- MCP/connectors;
-- local/privacy messaging;
-- model switching and download/discovery.
+Official current documentation shows:
+- Jan supports Projects, local GGUF/llama.cpp model management, cloud providers and MCP/tool integrations.
+- LM Studio supports offline local chat, document/RAG workflows and local serving.
+- Open WebUI supports Knowledge/RAG, hybrid retrieval and tool extensibility.
 
-Therefore those primitives alone are not a credible uniqueness claim.
+Therefore those primitives alone are not a defensible uniqueness claim.
 
-## Current market references
-
-### Jan
-Jan's current desktop documentation presents local models, projects, agents, MCP integrations, local APIs and cloud/provider options across Windows/macOS/Linux.
-
-### LM Studio
-LM Studio documents offline local model chat, document/RAG workflows and local server operation.
-
-### Open WebUI
-Open WebUI presents a private/extensible interface across chat, models, knowledge, RAG and tools, with broad provider compatibility.
-
-### AnythingLLM
-AnythingLLM remains a local-first workspace competitor around documents/knowledge, agents and model/provider flexibility.
-
-## XMECK-AI's strongest credible wedge
+## XMECK-AI's credible position
 
 **A governed private-first Windows intelligence workspace for serious personal/professional knowledge and engineering work where local control, explicit routing, bounded authority, evidence and recovery matter.**
 
-The differentiated value is the integrated architecture:
+The strongest product differentiation is the integrated discipline:
 
 1. **Product Truth** rather than UI-only readiness.
-2. **Model readiness chain**: identity → hardware → runtime → inference → semantic role → routing eligibility.
-3. **Fail-closed route truth** with no silent external fallback.
+2. **Model readiness chain** rather than filename-based trust.
+3. **Explicit routing** rather than silent provider fallback.
 4. **ProjectGuard** around protected egress and side effects.
 5. **Evidence-before-claim**.
-6. **Explicit ownership boundaries** for app/state/models/projects/knowledge/credentials/evidence.
-7. **Recovery and lifecycle evidence** as part of the product architecture.
-8. **Deterministic package/SBOM/provenance lineage**.
-9. **Release claims separated from external signing/provider/account readiness**.
+6. **Explicit ownership boundaries** for Projects, models and Knowledge.
+7. **Recovery/lifecycle evidence** as part of product architecture.
+8. **Deterministic package / SBOM / provenance lineage**.
 
-## Messaging to avoid
+## Public messaging to avoid
 
 Do not claim:
-- “most private AI”;
-- “fastest local AI”;
-- “best local AI”;
-- “fully offline” for a configuration using external providers;
-- “enterprise-ready”;
-- “security-certified”;
-- “globally novel” or “patented”;
-- “multi-model leader”;
-- “trusted signed public release” before real signing evidence exists.
+- "best local AI";
+- "fastest local AI";
+- "most private AI";
+- "enterprise-ready";
+- "security-certified";
+- "globally novel" or "patented";
+- trusted signed public release before trusted signing exists.
 
-## Market credibility
+## Reference documentation
 
-The strongest current value is not that XMECK does everything competitors do.
-
-It is that the product has a clear discipline around:
-**truthful readiness, explicit route authority, user-owned local work, bounded actions, evidence and recoverability.**
-
-## Public references
 - Jan: https://www.jan.ai/docs/desktop
 - Jan Projects: https://www.jan.ai/docs/desktop/projects
+- Jan model management: https://www.jan.ai/docs/desktop/manage-models
 - Jan MCP: https://www.jan.ai/docs/desktop/mcp
 - LM Studio offline operation: https://lmstudio.ai/docs/app/offline
 - Open WebUI features: https://docs.openwebui.com/features/
 - Open WebUI RAG: https://docs.openwebui.com/features/chat-conversations/rag/
-- AnythingLLM: https://anythingllm.com/

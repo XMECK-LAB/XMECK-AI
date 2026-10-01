@@ -1,0 +1,24 @@
+XMECK-AI / QBOX-AI Binary Evaluation Permission
+Copyright (c) 2026 Raaj Mandale. All rights reserved.
+
+This permission applies only to unmodified binary artifacts explicitly published
+in the XMECK-LAB/XMECK-AI repository for engineering or historical evaluation.
+
+Permission is granted to download, extract, install, and execute an unmodified
+published binary artifact for personal, technical, educational, or non-commercial
+evaluation.
+
+No permission is granted to:
+- redistribute or republish the binary artifact;
+- modify, reverse brand, sublicense, sell, or commercially exploit it;
+- represent a historical QBOX-AI build as the current XMECK-AI product;
+- use XMECK, XMECK-AI, QBOX-AI, or XMECK-LAB branding as your own;
+- remove or misrepresent included notices, manifests, or provenance.
+
+Third-party components remain subject to their own licenses and notices.
+
+This permission does not grant rights to the private engineering source
+repository or to any separately protected implementation details.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY, TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW.

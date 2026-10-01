@@ -34,6 +34,14 @@
   Published under <a href="https://github.com/XMECK-LAB"><strong>XMECK-LAB</strong></a>
 </p>
 
+<p align="center">
+  <a href="XMECK-AI_FINAL_FOUNDER_CANDIDATE_1.0.0.0.zip"><strong>⬇ Download XMECK-AI 1.0.0.0</strong></a>
+  &nbsp;·&nbsp;
+  <a href="DOWNLOAD_XMECK_AI_1.0.0.0.md"><strong>Verify / Install Guide</strong></a>
+  &nbsp;·&nbsp;
+  <a href="XMECK_AI_1.0.0.0_SHA256.txt"><strong>SHA-256</strong></a>
+</p>
+
 ---
 
 ## ✦ Product in one line
@@ -102,7 +110,7 @@ XMECK-AI converges that lineage into one current Windows product with:
 - Activity / Evidence;
 - recovery / lifecycle / packaging.
 
-> **Branches preserve browsable engineering history. GitHub Releases carry runnable binary artifacts.**
+> **Historical branches preserve engineering history and carry their exact runnable ZIPs. `main` carries the exact current XMECK-AI 1.0.0.0 engineering candidate. Tags freeze milestone identity.**
 
 ---
 
@@ -351,7 +359,7 @@ Image generation remains route/provider-bound rather than implied as universally
 
 ## 📦 Historical runnable builds
 
-The historical branches are for **inspection**. Runnable Windows packages are distributed separately as **GitHub Release assets**. The exact artifact names and hashes below define those public binary artifacts.
+The historical branches are for **inspection and direct evaluation**. Each historical branch now contains its exact runnable Windows ZIP alongside the browsable engineering evidence.
 
 ### QBOX-AI Stage B R1
 
@@ -367,7 +375,7 @@ The historical branches are for **inspection**. Runnable Windows packages are di
 - Artifact: `QBOX-AI_STAGE-B_R2_HISTORICAL_WINDOWS-x64.zip`
 - SHA-256: `8e148b5751127fb76d62bf5b094618ab77d38931d0ff2e1836d86a1dae033da0`
 
-> GitHub's automatic **Source code (zip)** for a branch or tag is only a repository snapshot. It is **not** the runnable Windows artifact above.
+> Use the explicitly named build ZIP above for evaluation. GitHub's automatic branch/tag source archive is only a repository snapshot.
 
 ---
 
@@ -513,6 +521,9 @@ creator / systems architect / research identity
 - [`docs/RELEASE_BOUNDARY.md`](docs/RELEASE_BOUNDARY.md)
 - [`docs/ECOSYSTEM.md`](docs/ECOSYSTEM.md)
 - [`docs/LINEAGE.md`](docs/LINEAGE.md)
+- [`docs/REPOSITORY_MAP.md`](docs/REPOSITORY_MAP.md)
+- [`docs/PUBLIC_EVIDENCE_INDEX.md`](docs/PUBLIC_EVIDENCE_INDEX.md)
+- [`docs/ENGINEERING_PROVENANCE.md`](docs/ENGINEERING_PROVENANCE.md)
 
 ---
 
@@ -520,7 +531,7 @@ creator / systems architect / research identity
 
 This repository is publicly visible but **not automatically open source**.
 
-See [`LICENSE.txt`](LICENSE.txt) for the current rights boundary and [`SECURITY.md`](SECURITY.md) for reporting/security guidance.
+See [`LICENSE.txt`](LICENSE.txt) for the repository rights boundary, [`BINARY_EVALUATION_LICENSE.txt`](BINARY_EVALUATION_LICENSE.txt) for permission to download/run the published evaluation binaries, and [`SECURITY.md`](SECURITY.md) for reporting/security guidance.
 
 Third-party components remain subject to their own licenses and notices.
 
