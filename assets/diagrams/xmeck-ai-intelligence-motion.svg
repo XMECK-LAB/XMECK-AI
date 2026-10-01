@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="780" viewBox="0 0 1600 780" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#020813"/><stop offset="1" stop-color="#071a33"/></linearGradient>
+  <radialGradient id="core"><stop offset="0" stop-color="#168cff"/><stop offset=".5" stop-color="#0a356f"/><stop offset="1" stop-color="#020913"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f8fbff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#9fb7d0}.h{font-family:Segoe UI,Arial,sans-serif;fill:#6bdcff;font-weight:700}.o{font-family:Segoe UI,Arial,sans-serif;fill:#ffac55;font-weight:700}</style>
+</defs>
+<rect width="1600" height="780" rx="30" fill="url(#bg)"/>
+<text x="68" y="68" class="t" font-size="36" font-weight="800">XMECK-AI Intelligence Surface</text>
+<text x="68" y="106" class="s" font-size="19">Context, intelligence, authority, evidence and recovery stay visible across the workspace.</text>
+
+<g transform="translate(800 400)">
+  <circle r="126" fill="url(#core)" stroke="#45caff" stroke-width="3" filter="url(#glow)"/>
+  <text x="-93" y="-4" class="t" font-size="31" font-weight="800">XMECK-AI</text>
+  <text x="-83" y="31" class="s" font-size="17">INTELLIGENCE CORE</text>
+  <circle r="170" fill="none" stroke="#47d3ff" opacity=".34" stroke-width="2">
+    <animate attributeName="r" values="150;178;150" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g fill="#102743" stroke-width="2">
+  <rect x="95" y="190" width="330" height="130" rx="20" stroke="#42caff"/>
+  <rect x="95" y="475" width="330" height="130" rx="20" stroke="#42caff"/>
+  <rect x="1175" y="190" width="330" height="130" rx="20" stroke="#ff9738"/>
+  <rect x="1175" y="475" width="330" height="130" rx="20" stroke="#ff9738"/>
+  <rect x="570" y="615" width="460" height="115" rx="20" stroke="#7fdfff"/>
+</g>
+
+<g class="t">
+  <text x="130" y="230" class="h" font-size="25">Local Intelligence</text>
+  <text x="130" y="266" class="s" font-size="18">Qwen3 chat + embeddings</text>
+  <text x="130" y="295" class="s" font-size="18">llama.cpp · GGUF · model admission</text>
+
+  <text x="130" y="515" class="h" font-size="25">Projects + Knowledge</text>
+  <text x="130" y="551" class="s" font-size="18">local folders · Git · RAG</text>
+  <text x="130" y="580" class="s" font-size="18">proposal / review / bounded apply</text>
+
+  <text x="1210" y="230" class="o" font-size="25">Connected Capability</text>
+  <text x="1210" y="266" class="s" font-size="18">optional providers / external routes</text>
+  <text x="1210" y="295" class="s" font-size="18">no silent cloud fallback</text>
+
+  <text x="1210" y="515" class="o" font-size="25">ProjectGuard + Evidence</text>
+  <text x="1210" y="551" class="s" font-size="18">authority · egress · side effects</text>
+  <text x="1210" y="580" class="s" font-size="18">activity / receipts / proof</text>
+
+  <text x="615" y="657" class="h" font-size="24">Lifecycle + Recovery</text>
+  <text x="615" y="693" class="s" font-size="18">install · repair · rollback · manifests · SBOM · provenance</text>
+</g>
+
+<g fill="none" stroke-width="3">
+  <path id="p1" d="M425 255 C560 255 610 335 674 370" stroke="#45cfff"/>
+  <path id="p2" d="M425 540 C560 540 620 470 677 432" stroke="#45cfff"/>
+  <path id="p3" d="M1175 255 C1045 255 990 335 926 370" stroke="#ff9a3a"/>
+  <path id="p4" d="M1175 540 C1045 540 990 470 925 432" stroke="#ff9a3a"/>
+  <path id="p5" d="M800 526 L800 615" stroke="#7fdfff"/>
+</g>
+
+<g filter="url(#glow)">
+  <circle r="7" fill="#69dcff"><animateMotion dur="2.8s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+  <circle r="7" fill="#69dcff"><animateMotion dur="3.4s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
+  <circle r="7" fill="#ff9c3c"><animateMotion dur="3s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
+  <circle r="7" fill="#ff9c3c"><animateMotion dur="3.6s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion></circle>
+  <circle r="7" fill="#ffffff"><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#p5"/></animateMotion></circle>
+</g>
+
+<text x="120" y="718" class="s" font-size="16">INTENT → ROUTE → CONTEXT → PROPOSE → REVIEW → AUTHORIZE → EXECUTE → EVIDENCE → RECOVER</text>
+</svg>

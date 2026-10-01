@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#030812"/><stop offset="1" stop-color="#091b34"/></linearGradient>
+  <style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#f8fbff}.s{font-family:Segoe UI,Arial,sans-serif;fill:#9fb7d0}.b{font-family:Segoe UI,Arial,sans-serif;fill:#6bdcff;font-weight:700}.o{font-family:Segoe UI,Arial,sans-serif;fill:#ffae58;font-weight:700}</style>
+</defs>
+<rect width="1600" height="720" rx="30" fill="url(#bg)"/>
+<text x="70" y="70" class="t" font-size="37" font-weight="800">XMECK-LAB Product Ecosystem</text>
+<text x="70" y="110" class="s" font-size="19">Creator identity, public software organization and product relationships are kept explicit.</text>
+
+<rect x="585" y="155" width="430" height="105" rx="20" fill="#102743" stroke="#74dfff" stroke-width="2"/>
+<text x="650" y="198" class="t" font-size="28" font-weight="800">Raaj Mandale</text>
+<text x="650" y="230" class="s" font-size="18">creator · systems architect · research identity</text>
+
+<path d="M800 260V315" stroke="#74dfff" stroke-width="4"/>
+<rect x="565" y="315" width="470" height="105" rx="20" fill="#142b48" stroke="#ff9d39" stroke-width="3"/>
+<text x="680" y="358" class="o" font-size="29">XMECK-LAB</text>
+<text x="630" y="392" class="s" font-size="18">public software / startup organization</text>
+
+<g stroke-width="3" fill="none">
+  <path d="M800 420V470H275V505" stroke="#48ceff"/>
+  <path d="M800 420V505" stroke="#48ceff"/>
+  <path d="M800 420V470H1325V505" stroke="#ff9d39"/>
+</g>
+
+<rect x="85" y="505" width="380" height="140" rx="22" fill="#102743" stroke="#46ceff" stroke-width="2"/>
+<text x="145" y="550" class="b" font-size="28">XRECONY</text>
+<text x="145" y="585" class="s" font-size="18">data reconstruction</text>
+<text x="145" y="614" class="s" font-size="18">structural understanding</text>
+
+<rect x="610" y="505" width="380" height="140" rx="22" fill="#102743" stroke="#46ceff" stroke-width="2"/>
+<text x="680" y="550" class="b" font-size="28">TRANSCRIPT</text>
+<text x="680" y="585" class="s" font-size="18">governed execution infrastructure</text>
+<text x="680" y="614" class="s" font-size="18">KAVACH → trust / protection substrate</text>
+
+<rect x="1135" y="505" width="380" height="140" rx="22" fill="#2b2118" stroke="#ff9d39" stroke-width="3"/>
+<text x="1215" y="550" class="o" font-size="30">XMECK-AI</text>
+<text x="1195" y="585" class="s" font-size="18">private-first personal intelligence</text>
+<text x="1210" y="614" class="s" font-size="18">current Windows product</text>
+
+<text x="70" y="688" class="s" font-size="16">QBOX-AI remains XMECK-AI engineering ancestry. Older independent research lineages are not silently absorbed into XMECK-LAB.</text>
+</svg>

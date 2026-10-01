@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+<title id="title">XMECK-AI Cinematic Product Surface</title>
+<desc id="desc">Animated blue-orange XMECK-AI product banner with local intelligence, projects, knowledge, governed work, evidence and recovery.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#020712"/><stop offset=".48" stop-color="#07182f"/><stop offset="1" stop-color="#030914"/></linearGradient>
+  <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#73ddff"/><stop offset="1" stop-color="#187cff"/></linearGradient>
+  <linearGradient id="orange" x1="0" x2="1"><stop stop-color="#ffb55f"/><stop offset="1" stop-color="#ff6a00"/></linearGradient>
+  <radialGradient id="orb"><stop offset="0" stop-color="#1d86ff" stop-opacity=".76"/><stop offset=".42" stop-color="#0d356d" stop-opacity=".86"/><stop offset="1" stop-color="#010712"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .t{font-family:Segoe UI,Arial,sans-serif;fill:#f8fbff}
+    .s{font-family:Segoe UI,Arial,sans-serif;fill:#a9bfd9}
+    .b{font-family:Segoe UI,Arial,sans-serif;fill:#74dfff;font-weight:700}
+    .o{font-family:Segoe UI,Arial,sans-serif;fill:#ffb15e;font-weight:700}
+  </style>
+</defs>
+<rect width="1600" height="620" rx="34" fill="url(#bg)"/>
+<g opacity=".12" stroke="#55cfff"><path d="M0 95H1600M0 520H1600"/><path d="M185 0V620M1420 0V620"/></g>
+
+<g transform="translate(1220 302)">
+  <circle r="152" fill="url(#orb)" stroke="#3ea8ff" stroke-width="2"/>
+  <circle r="195" fill="none" stroke="#23baff" stroke-width="2" opacity=".36">
+    <animate attributeName="r" values="180;205;180" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".18;.55;.18" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <ellipse rx="250" ry="76" fill="none" stroke="#46d5ff" stroke-width="2" opacity=".62">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="17s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse rx="225" ry="90" fill="none" stroke="#ff8e28" stroke-width="2" opacity=".65" transform="rotate(58)">
+    <animateTransform attributeName="transform" type="rotate" from="58" to="418" dur="23s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <path d="M-72-80 L-18-24 L-73 34 L-42 68 L16 8 L73 68 L103 34 L47-22 L102-80 L72-108 L16-50 L-42-108 Z"
+        fill="url(#blue)" filter="url(#glow)"/>
+  <path d="M15-50 L72-108 L102-80 L47-22 L103 34 L73 68 L16 8 Z" fill="url(#orange)" opacity=".9"/>
+
+  <circle cx="-212" cy="-28" r="8" fill="#73ddff">
+    <animate attributeName="cx" values="-212;205;-212" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".15;1;.15" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="190" cy="58" r="7" fill="#ff9c3c">
+    <animate attributeName="cx" values="190;-195;190" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;1;.2" dur="9s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g class="t">
+  <text x="78" y="78" class="b" font-size="19" letter-spacing="4">XMECK-LAB · PRIVATE-FIRST WINDOWS INTELLIGENCE</text>
+  <text x="78" y="184" font-size="84" font-weight="800">XMECK-AI</text>
+  <text x="80" y="236" font-size="31" font-weight="650">Personal Intelligence Workspace for Windows</text>
+  <text x="80" y="282" class="s" font-size="23">Local by default · Cloud by choice · Authority stays explicit</text>
+
+  <g font-size="18" font-weight="700">
+    <rect x="80" y="335" width="154" height="42" rx="8" fill="#14283f" stroke="#42c9ff"/><text x="105" y="363">LOCAL AI</text>
+    <rect x="248" y="335" width="176" height="42" rx="8" fill="#14283f" stroke="#42c9ff"/><text x="275" y="363">PROJECTS / GIT</text>
+    <rect x="438" y="335" width="194" height="42" rx="8" fill="#14283f" stroke="#42c9ff"/><text x="465" y="363">KNOWLEDGE / RAG</text>
+    <rect x="646" y="335" width="173" height="42" rx="8" fill="#302117" stroke="#ff9b38"/><text x="671" y="363">PROJECTGUARD</text>
+  </g>
+
+  <text x="80" y="431" class="b" font-size="19">PRODUCT TRUTH · MODEL ADMISSION · EXPLICIT ROUTING · EVIDENCE BEFORE CLAIM</text>
+  <text x="80" y="471" class="o" font-size="18">ASK · RESEARCH · PROJECT · BUILD · WRITE · ACTIVITY / EVIDENCE · RECOVERY</text>
+
+  <text x="80" y="545" class="s" font-size="17">QBOX-AI R1 → QBOX-AI R2 → XMECK-AI 1.0.0.0</text>
+  <text x="80" y="579" class="s" font-size="17">Built by Raaj Mandale · Published under XMECK-LAB</text>
+</g>
+</svg>
