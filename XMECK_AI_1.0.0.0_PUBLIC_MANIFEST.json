@@ -1,0 +1,23 @@
+{
+  "schema": "XMECK-AI/PUBLIC-1.0.0.0-BINDING/1",
+  "date": "2026-10-01",
+  "product": "XMECK-AI",
+  "version": "1.0.0.0",
+  "platform": "Windows x64",
+  "public_repository": "XMECK-LAB/XMECK-AI",
+  "public_branch": "main",
+  "public_file": "XMECK-AI_FINAL_FOUNDER_CANDIDATE_1.0.0.0.zip",
+  "sha256": "0b3c346e2b9df7d8ee121f3451db0ef98ee340096a26b8f4a313cdbca44e1dd3",
+  "main_publication_commit": "06a62d8feefcb1a7f6ff92359bec75866f887eb0",
+  "tag": "xmeck-ai-1.0.0.0-engineering-candidate",
+  "final_application_subject": {
+    "commit": "1461dab2489e04c490053e5747e5cf12e9612b61",
+    "tree": "cf0c6345e41d8b0dc5b7f74ef2b45e43efe0c6ad"
+  },
+  "candidate_authority": "PASS_XMECK_FINAL_FOUNDER_CANDIDATE_ADMISSION",
+  "release_boundary": {
+    "trusted_signing": "HOLD_EXTERNAL_SIGNING_IDENTITY",
+    "production_update_host": "HOLD_EXTERNAL_UPDATE_SOURCE",
+    "commercial_release": "NOT_ADMITTED"
+  }
+}
