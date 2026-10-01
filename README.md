@@ -91,7 +91,7 @@ R2
 8e148b5751127fb76d62bf5b094618ab77d38931d0ff2e1836d86a1dae033da0
 
 XMECK-AI 1.0.0.0
-0b3c346e2b9df7d8ee121f3451db0ef98ee340096a26b8f4a313cdbca44e1dd3
+3cab42520c9ced37e25c0088f299d1cb3b896836c8abdfc364d3996aaf76b15c
 ```
 
 Verify the current build on Windows:

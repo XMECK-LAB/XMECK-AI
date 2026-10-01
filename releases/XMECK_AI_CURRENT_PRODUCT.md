@@ -8,7 +8,7 @@ Current public candidate:
 
 SHA-256:
 
-`0b3c346e2b9df7d8ee121f3451db0ef98ee340096a26b8f4a313cdbca44e1dd3`
+`3cab42520c9ced37e25c0088f299d1cb3b896836c8abdfc364d3996aaf76b15c`
 
 Verification / install guide:
 

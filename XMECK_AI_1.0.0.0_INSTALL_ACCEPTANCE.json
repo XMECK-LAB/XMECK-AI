@@ -1,0 +1,15 @@
+{
+  "schema": "XMECK-AI/PUBLIC-INSTALL-ACCEPTANCE/1",
+  "date": "2026-10-01",
+  "status": "PASS_XMECK_AI_FINAL_USER_INSTALL_ACCEPTANCE",
+  "candidate_sha256": "3cab42520c9ced37e25c0088f299d1cb3b896836c8abdfc364d3996aaf76b15c",
+  "root_manifest_sha256": "739ddbed1bd87088b2f5292c6275ade8e643fda06af06f51f949d2061e7a32e7",
+  "normal_install_wrapper": "PASS",
+  "canonical_install_root": "PASS",
+  "install_receipt": "PASS",
+  "installed_manifest": "PASS",
+  "desktop_shortcut": "PASS",
+  "shortcut_launch": "PASS",
+  "executable_authenticode": "NotSigned",
+  "trusted_signing": "HOLD_EXTERNAL_SIGNING_IDENTITY"
+}

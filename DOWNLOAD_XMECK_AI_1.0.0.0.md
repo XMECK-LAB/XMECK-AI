@@ -17,7 +17,7 @@ Direct raw download:
 
 Expected SHA-256:
 
-`0b3c346e2b9df7d8ee121f3451db0ef98ee340096a26b8f4a313cdbca44e1dd3`
+`3cab42520c9ced37e25c0088f299d1cb3b896836c8abdfc364d3996aaf76b15c`
 
 ## What is inside
 
@@ -55,7 +55,7 @@ Get-FileHash ".\XMECK-AI_FINAL_FOUNDER_CANDIDATE_1.0.0.0.zip" -Algorithm SHA256
 
 The hash must be exactly:
 
-`0b3c346e2b9df7d8ee121f3451db0ef98ee340096a26b8f4a313cdbca44e1dd3`
+`3cab42520c9ced37e25c0088f299d1cb3b896836c8abdfc364d3996aaf76b15c`
 
 If it differs, do not install it.
 
@@ -103,6 +103,21 @@ The recovery carrier is designed to preserve user models, external Projects, ext
 
 `UNINSTALL_XMECK_AI.bat`
 
+## Installer acceptance
+
+The current public candidate includes the corrected top-level Windows install wrapper.
+
+Founder physical acceptance on 2026-10-01:
+
+- normal INSTALL_XMECK_AI.bat: **PASS**
+- canonical install root: **PASS**
+- install receipt: **PASS**
+- desktop shortcut: **PASS**
+- shortcut launch: **PASS**
+
+Users should not need to browse into payload\ to launch the application after installation.
+
+The executable remains unsigned. Trusted Publisher signing is still an external release hold.
 ## Product boundary
 
 This candidate is the exact frozen XMECK-AI 1.0.0.0 engineering Founder candidate.
@@ -125,7 +140,7 @@ Final application subject:
 
 Final candidate SHA-256:
 
-`0b3c346e2b9df7d8ee121f3451db0ef98ee340096a26b8f4a313cdbca44e1dd3`
+`3cab42520c9ced37e25c0088f299d1cb3b896836c8abdfc364d3996aaf76b15c`
 
 Historical engineering builds:
 
