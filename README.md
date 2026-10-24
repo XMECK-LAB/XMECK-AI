@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/hero/xmeck_hero.svg" width="100%" alt="XMECK-AI — Windows personal intelligence workspace"></p>
 
-<h1 align="center">XMECK-AI</h1>
-<p align="center"><strong>Your models. Your knowledge. Your projects. One intelligence workspace.</strong><br>
+<h1 align="center">🧠 XMECK-AI</h1>
+<p align="center"><strong><strong>One workspace for AI, knowledge and real project work.</strong></strong><br>
 Local by default · Cloud by choice · Authority stays explicit</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Windows-x64-12345b?style=flat-square" alt="Windows x64">
@@ -12,15 +12,15 @@ Local by default · Cloud by choice · Authority stays explicit</p>
 
 ---
 
-## A place to use intelligence—not another language model
+## ✨ Meet XMECK-AI — intelligence built around your work
 
 **XMECK-AI is a personal intelligence workspace for Windows.** It brings conversations, locally stored knowledge, software projects, model selection and reviewed AI-assisted work together without making a cloud service or unrestricted agent the default.
 
 Use AI to understand a project, ask questions about supported files, work with your knowledge and prepare useful outputs. **The model is replaceable. Your context and permission to act remain yours.**
 
-**Why it exists:** Powerful models are widely available, but a useful working environment also needs project context, transparent routing, reviewable actions and continuity. XMECK-AI is an engineering attempt to bring those pieces into one desktop experience.
+**Why we built it:** AI models can answer questions. Real work also requires context, files, tools, permissions and a way to understand what changed. XMECK-AI unifies these into a desktop workspace in which you choose the intelligence, define its reach and review consequential actions.
 
-## See the workspace
+## 🎬 Explore the workspace
 
 <p align="center"><img src="assets/motion/orb_hud_system.svg" width="100%" alt="Animated XMECK-AI intelligence control diagram"></p>
 
@@ -30,7 +30,7 @@ Use AI to understand a project, ask questions about supported files, work with y
 <p align="center"><img src="assets/screenshots/projects_workspace.png" width="47%" alt="Authentic Projects workspace"> <img src="assets/screenshots/intelligence_workspace.png" width="47%" alt="Authentic Intelligence workspace"></p>
 <p align="center"><sub><strong>Projects / Git</strong> — user-owned folders and local inspection. <strong>Intelligence</strong> — runtime and model readiness.</sub></p>
 
-## What XMECK-AI does
+## ⚡ What you can do
 
 | Capability | Practical use |
 |---|---|
@@ -45,7 +45,7 @@ Use AI to understand a project, ask questions about supported files, work with y
 
 The current product is a **single-user Windows engineering candidate**. These are real documented V1 surfaces, but the availability of a feature, model or connected provider depends on its current qualification state. See the [capability matrix](docs/PUBLIC_CLAIMS_MATRIX.md).
 
-## Models are replaceable
+## 🧠 Model freedom with verifiable readiness
 
 <p align="center"><img src="assets/motion/model_route_control_animated.svg" width="100%" alt="Animated model discovery, verification and route eligibility diagram"></p>
 
@@ -55,7 +55,7 @@ Additional GGUF models can be discovered or imported, but **discovery is not adm
 
 [Read about models and routing](docs/MODELS_AND_ROUTING.md).
 
-## How work stays under control
+## 🛡️ Authority before action
 
 <p align="center"><img src="assets/motion/governed_workflow_animated.svg" width="100%" alt="Animated workflow from goal through authorization and evidence"></p>
 
@@ -65,7 +65,7 @@ Additional GGUF models can be discovered or imported, but **discovery is not adm
 
 This is a software-workflow authority model—not a claim of host-level isolation, unrestricted autonomous computer control or independent security certification.
 
-## How the system fits together
+## 🏛️ Engineering architecture
 
 <p align="center"><img src="assets/diagrams/xmeck_architecture.png" width="94%" alt="XMECK-AI system areas"></p>
 
@@ -77,20 +77,22 @@ This is a software-workflow authority model—not a claim of host-level isolatio
 
 [Architecture](docs/ARCHITECTURE.md) · [Engineering evidence](docs/PUBLIC_EVIDENCE_INDEX.md) · [Product facts](docs/PRODUCT_FACTS.md).
 
-## From QBOX engineering to XMECK-AI
+## 🧬 From QBOX-AI to XMECK-AI
 
 QBOX-AI Stage B was the earlier Windows engineering foundation. **XMECK-AI 1.0.0.0** is the current unified product identity, carrying local inference, projects, knowledge, model readiness, governed work and lifecycle discipline forward. It is a starting release identity, **not** a claim of a complete AI operating system.
 
-## Evaluate the Windows candidate
+## 🚀 Explore and evaluate V1
 
 The product has an internally qualified Windows x64 engineering baseline, but **trusted public signing, production update hosting and some connected routes remain held**. Review the [Windows evaluation instructions](DOWNLOAD_XMECK_AI_1.0.0.0.md), [release boundaries](docs/RELEASE_BOUNDARY.md), [SHA-256 record](XMECK_AI_1.0.0.0_SHA256.txt) and [public evidence index](docs/PUBLIC_EVIDENCE_INDEX.md).
 
 No claim is made of a newly invented foundation LLM, universal model/provider coverage, enterprise multi-user hosting, unrestricted agent control, certified security or performance leadership. Historical binaries are not being republished by this presentation package.
 
-## Engineering identity
+## 🌐 Engineering and ecosystem
 
-**Built by Raaj Mandale — Systems Architect** · Published through **[XMECK-LAB](https://github.com/XMECK-LAB)**.
+**XMECK-AI is built by [Raaj Mandale](https://github.com/raajmandale), Systems Architect, and published under [XMECK-LAB](https://github.com/XMECK-LAB).**
 
-Work across execution systems, survivability, private intelligence and controlled action informs XMECK-AI's design. See [Raaj Mandale](https://github.com/raajmandale) for related independent systems-engineering work.
+XMECK-LAB is the public home for working software spanning private intelligence, reconstruction and governed execution. XMECK-AI is its Windows intelligence-workspace line; [XRECONY](https://github.com/XMECK-LAB/XRECONY) focuses on readable-data reconstruction, while [TRANSCRIPT / KAVACH](https://github.com/XMECK-LAB/TRANSCRIPT) publishes a separately bounded authority and continuity reference. These are distinct engineering lines, **not a claim that all products are integrated today**.
 
-<p align="center"><strong>Your intelligence. Local by default. Cloud by choice.</strong></p>
+Raaj Mandale’s wider research in execution systems, survivability and systems architecture informs the design direction without replacing the evidence required for each product. See the [personal engineering portfolio](https://github.com/raajmandale) and [XMECK-LAB organization](https://github.com/XMECK-LAB).
+
+<p align="center"><strong>Your intelligence. Local by default. Cloud by choice.</strong><br><sub>Real software · Clear boundaries · Evidence before claims</sub></p>
