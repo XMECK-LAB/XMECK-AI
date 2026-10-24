@@ -1,150 +1,96 @@
+<p align="center"><img src="assets/hero/xmeck_hero.svg" width="100%" alt="XMECK-AI — Windows personal intelligence workspace"></p>
+
+<h1 align="center">XMECK-AI</h1>
+<p align="center"><strong>Your models. Your knowledge. Your projects. One intelligence workspace.</strong><br>
+Local by default · Cloud by choice · Authority stays explicit</p>
 <p align="center">
-  <img src="assets/brand/xmeck-ai-cinematic-hero.svg" width="100%" alt="XMECK-AI — Personal Intelligence Workspace for Windows">
+<img src="https://img.shields.io/badge/Windows-x64-12345b?style=flat-square" alt="Windows x64">
+<img src="https://img.shields.io/badge/Release-1.0.0.0-0A73E8?style=flat-square" alt="1.0.0.0">
+<img src="https://img.shields.io/badge/Status-Engineering%20Candidate-F27A28?style=flat-square" alt="Engineering candidate">
 </p>
-
-<h1 align="center">🧠 XMECK-AI</h1>
-
-<p align="center">
-  <strong>Your AI workspace. Your models. Your projects. Your control.</strong><br>
-  Private-first intelligence for conversations, knowledge, engineering projects and governed work.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PLATFORM-Windows%20x64-111827?style=flat-square" alt="Windows x64">
-  <img src="https://img.shields.io/badge/EDITION-1.0.0.0-2563eb?style=flat-square" alt="Version 1.0.0.0">
-  <img src="https://img.shields.io/badge/STATUS-Engineering%20Candidate-f97316?style=flat-square" alt="Engineering Candidate">
-  <img src="https://img.shields.io/badge/INTELLIGENCE-Local%20First-0ea5e9?style=flat-square" alt="Local first">
-</p>
-
-<p align="center">
-  <a href="#-explore-the-workspace"><strong>Explore</strong></a> &nbsp; • &nbsp;
-  <a href="#-what-you-can-do"><strong>Capabilities</strong></a> &nbsp; • &nbsp;
-  <a href="#-your-models-your-choice"><strong>Models</strong></a> &nbsp; • &nbsp;
-  <a href="#-evaluate-xmeck-ai"><strong>Evaluate</strong></a> &nbsp; • &nbsp;
-  <a href="docs/PUBLIC_EVIDENCE_INDEX.md"><strong>Evidence</strong></a>
-</p>
-
-<p align="center"><em>Local by default. Cloud by choice. Authority stays with you.</em></p>
+<p align="center"><a href="#what-xmeck-ai-does">Capabilities</a> · <a href="#see-the-workspace">Workspace</a> · <a href="#models-are-replaceable">Models</a> · <a href="#how-work-stays-under-control">ProjectGuard</a> · <a href="#evaluate-the-windows-candidate">Evaluate</a></p>
 
 ---
 
-## ✨ Intelligence that works around your world
+## A place to use intelligence—not another language model
 
-**XMECK-AI is a Windows intelligence workspace—not another language model.** It brings together local AI conversation, your files and knowledge, real project context, model choice, useful outputs and control over actions.
+**XMECK-AI is a personal intelligence workspace for Windows.** It brings conversations, locally stored knowledge, software projects, model selection and reviewed AI-assisted work together without making a cloud service or unrestricted agent the default.
 
-Start with a conversation. Bring in a project. Search your own knowledge. Explore compatible models. Ask AI to explain, research, write or propose changes—and keep decisions about accessing data and changing files visible.
+Use AI to understand a project, ask questions about supported files, work with your knowledge and prepare useful outputs. **The model is replaceable. Your context and permission to act remain yours.**
 
-> **The model supplies intelligence. You supply the context, permissions and final authority.**
+**Why it exists:** Powerful models are widely available, but a useful working environment also needs project context, transparent routing, reviewable actions and continuity. XMECK-AI is an engineering attempt to bring those pieces into one desktop experience.
 
-## 🎬 Explore the workspace
+## See the workspace
 
-<p align="center">
-  <img src="assets/screenshots/03-local-chat-ready.png" width="93%" alt="XMECK-AI Chat — local model conversation workspace">
-</p>
-<p align="center"><sub>💬 <strong>CHAT</strong> — A continuous conversation canvas using a qualified local model.</sub></p>
+<p align="center"><img src="assets/motion/orb_hud_system.svg" width="100%" alt="Animated XMECK-AI intelligence control diagram"></p>
 
-<p align="center">
-  <img src="assets/screenshots/06-project-git-workspace.png" width="47%" alt="Projects and Git workspace">
-  <img src="assets/screenshots/07-intelligence-readiness.png" width="47%" alt="Local model and runtime readiness">
-</p>
-<p align="center"><sub>📁 <strong>PROJECTS</strong> — Work with owned files and local Git. &nbsp; 🧠 <strong>INTELLIGENCE</strong> — Know which models can really run.</sub></p>
+<p align="center"><img src="assets/screenshots/chat_workspace.png" width="94%" alt="Authentic Windows Chat workspace"></p>
+<p align="center"><sub><strong>Chat</strong> — local conversation surface. Screenshot shows a new session, not a generated-answer benchmark.</sub></p>
 
-<p align="center">
-  <img src="assets/diagrams/xmeck-ai-intelligence-motion.svg" width="93%" alt="XMECK-AI architecture and intelligence motion">
-</p>
-<p align="center"><sub>Illustrative system architecture; actual product behavior is defined by qualified runtime evidence.</sub></p>
+<p align="center"><img src="assets/screenshots/projects_workspace.png" width="47%" alt="Authentic Projects workspace"> <img src="assets/screenshots/intelligence_workspace.png" width="47%" alt="Authentic Intelligence workspace"></p>
+<p align="center"><sub><strong>Projects / Git</strong> — user-owned folders and local inspection. <strong>Intelligence</strong> — runtime and model readiness.</sub></p>
 
-## ⚡ What you can do
+## What XMECK-AI does
 
-| Workspace | Your everyday outcome |
-| :--- | :--- |
-| 💬 **Chat & Conversations** | Ask questions using a qualified local model, stream replies and return to conversations. |
-| 📁 **Projects & Git** | Open a local project, inspect supported files and Git changes, and prepare reviewed updates. |
-| 📚 **Knowledge & RAG** | Index supported local knowledge and retrieve relevant context with available references. |
-| 🧠 **Models & Intelligence** | Discover GGUF models, import them and qualify their runtime and task eligibility. |
-| 🌐 **Connected Intelligence** | Configure optional providers intentionally; external routing is never an invisible fallback. |
-| 🛠️ **Work & Bounded Agents** | Use Ask, Research, Project, Build and Write modes within authorized capabilities. |
-| 🛡️ **ProjectGuard** | Keep protected context and side-effect decisions under explicit user control. |
-| 🧾 **Activity, Artifacts & Recovery** | Inspect supported operations, generated work and lifecycle evidence. |
+| Capability | Practical use |
+|---|---|
+| **Chat & Conversations** | Ask a qualified local AI model, stream replies and return to saved conversations. |
+| **Projects / Local Git** | Bring a folder into scope, inspect supported files, Git status and diffs, and review proposed changes. |
+| **Knowledge / RAG** | Import supported local information, build retrieval context and examine available references. |
+| **Models & Runtimes** | Discover and import compatible GGUF models; check identity, device fit and runtime readiness before admitting a route. |
+| **Connected Intelligence** | Configure optional external providers; a web-assistant handoff is not equivalent to an integrated API connection. |
+| **Work & Agents** | Use Ask, Research, Project, Build and Write modes, subject to implemented tool and permission boundaries. |
+| **ProjectGuard** | Keep access to protected context, external transfers and file-changing operations under explicit authority. |
+| **Activity & Recovery** | Examine supported operation records, artifacts, diagnostic state and recovery evidence. |
 
-**Built for a practical workflow:** Chat → bring your project or knowledge → choose intelligence → review the outcome → authorize supported actions.
+The current product is a **single-user Windows engineering candidate**. These are real documented V1 surfaces, but the availability of a feature, model or connected provider depends on its current qualification state. See the [capability matrix](docs/PUBLIC_CLAIMS_MATRIX.md).
 
-The current Windows engineering candidate has defined qualification boundaries. Not every discovered model, optional provider or agent action is automatically usable. [See exact capabilities and limits →](docs/PUBLIC_CLAIMS_MATRIX.md)
+## Models are replaceable
 
-## 🔐 What makes XMECK-AI different?
+<p align="center"><img src="assets/motion/model_route_control_animated.svg" width="100%" alt="Animated model discovery, verification and route eligibility diagram"></p>
 
-Local chat, RAG and model APIs already exist across the AI ecosystem. **XMECK-AI's engineering focus is the system around them.**
+The factory-qualified local reference uses **Qwen3-8B Q4_K_M** with a pinned **llama.cpp** runtime. A separate **Qwen3-Embedding-0.6B Q8_0** reference supports retrieval. Model weights are user-supplied and are not redistributed with this repository.
 
-**🧭 Model choice with real readiness** — An available model file is not the same as a verified model route. Identity, hardware fit, runtime loading and role qualification are distinct steps.
+Additional GGUF models can be discovered or imported, but **discovery is not admission**: artifact identity, hardware eligibility, runtime loading and semantic role must be established before XMECK-AI can truthfully call the route ready. Optional external providers require deliberate setup; there is no claimed universal compatibility or silent cloud fallback.
 
-**🛡️ Permission before action** — AI can propose project changes without automatically earning permission to apply them. ProjectGuard separates knowledge, access, approval and supported execution.
+[Read about models and routing](docs/MODELS_AND_ROUTING.md).
 
-**📁 Your projects remain yours** — Work with user-owned folders, model files and knowledge rather than surrendering them to an application-managed cloud account.
+## How work stays under control
 
-**🔎 Know what really happened** — Readiness, activity, evidence and recovery are first-class parts of the workspace, not just decorative badges.
+<p align="center"><img src="assets/motion/governed_workflow_animated.svg" width="100%" alt="Animated workflow from goal through authorization and evidence"></p>
 
-<p align="center">
-  <img src="assets/diagrams/architecture.svg" width="93%" alt="XMECK-AI workspace architecture">
-</p>
+**ProjectGuard** distinguishes a proposed answer or change from permission to perform an action. In the implemented scope, project content and side effects are bounded by the chosen context and user approval. Activity and evidence make supported operations inspectable.
 
-```text
-YOUR QUESTION OR GOAL
-        ↓
-CHOSEN MODEL + PROJECT / KNOWLEDGE CONTEXT
-        ↓
-ANSWER · RESEARCH · PROPOSAL · ARTIFACT
-        ↓
-PROJECTGUARD REVIEW + EXPLICIT AUTHORITY
-        ↓
-SUPPORTED ACTION + ACTIVITY / EVIDENCE
-```
+<p align="center"><img src="assets/motion/projectguard_boundary.svg" width="100%" alt="ProjectGuard review and execution boundary"></p>
 
-*This is a bounded Windows software architecture, not a claim of universal operating-system enforcement, unrestricted agent control or independent security certification.*
+This is a software-workflow authority model—not a claim of host-level isolation, unrestricted autonomous computer control or independent security certification.
 
-## 🧠 Your models. Your choice.
+## How the system fits together
 
-**Local-first reference:** Qwen3-8B Q4_K_M for chat, Qwen3-Embedding-0.6B Q8_0 for retrieval, with a pinned llama.cpp runtime. Model weights are **not** bundled in this public repository.
+<p align="center"><img src="assets/diagrams/xmeck_architecture.png" width="94%" alt="XMECK-AI system areas"></p>
 
-**Beyond one model:** The Intelligence workspace supports discovering and importing compatible GGUF artifacts. Each model must earn readiness for its intended role; a model appearing in search results does not mean it can already answer.
+- **Experience:** chat, conversations, projects, knowledge and work surfaces.
+- **Intelligence:** owned model registry, qualified routes and runtime boundaries.
+- **Context:** local folders, Git and admitted knowledge sources.
+- **Authority:** ProjectGuard review of protected information and consequential actions.
+- **Evidence & lifecycle:** recorded work, artifacts, diagnostics and recovery.
 
-**Connected by choice:** External AI providers are optional and require explicit configuration and qualification. Opening ChatGPT, Gemini or another assistant in a browser is a handoff—not an integrated provider route.
+[Architecture](docs/ARCHITECTURE.md) · [Engineering evidence](docs/PUBLIC_EVIDENCE_INDEX.md) · [Product facts](docs/PRODUCT_FACTS.md).
 
-[Explore models and routing →](docs/MODELS_AND_ROUTING.md)
+## From QBOX engineering to XMECK-AI
 
-## 🚀 Evaluate XMECK-AI
+QBOX-AI Stage B was the earlier Windows engineering foundation. **XMECK-AI 1.0.0.0** is the current unified product identity, carrying local inference, projects, knowledge, model readiness, governed work and lifecycle discipline forward. It is a starting release identity, **not** a claim of a complete AI operating system.
 
-**XMECK-AI 1.0.0.0** is a real **single-user Windows x64 engineering candidate**, with local intelligence and bounded project/knowledge workflows. This is not yet a trusted signed commercial distribution.
+## Evaluate the Windows candidate
 
-| Start here | What you will find |
-| :--- | :--- |
-| 📘 **[Product facts](docs/PRODUCT_FACTS.md)** | Current application and runtime scope |
-| 🧪 **[Engineering evidence](docs/PUBLIC_EVIDENCE_INDEX.md)** | Public qualification records |
-| 🖥️ **[Windows evaluation guide](DOWNLOAD_XMECK_AI_1.0.0.0.md)** | Installation, verification and recovery information |
-| 🧾 **[Release status](docs/RELEASE_BOUNDARY.md)** | External signing, hosting and admission boundaries |
-| 🔍 **[Capabilities and limits](docs/PUBLIC_CLAIMS_MATRIX.md)** | What is qualified, conditional or unavailable |
+The product has an internally qualified Windows x64 engineering baseline, but **trusted public signing, production update hosting and some connected routes remain held**. Review the [Windows evaluation instructions](DOWNLOAD_XMECK_AI_1.0.0.0.md), [release boundaries](docs/RELEASE_BOUNDARY.md), [SHA-256 record](XMECK_AI_1.0.0.0_SHA256.txt) and [public evidence index](docs/PUBLIC_EVIDENCE_INDEX.md).
 
-Public promotion of historical direct-download ZIPs is suspended during distribution review. This README does not remove the existing files or imply a new binary has passed qualification.
+No claim is made of a newly invented foundation LLM, universal model/provider coverage, enterprise multi-user hosting, unrestricted agent control, certified security or performance leadership. Historical binaries are not being republished by this presentation package.
 
-## 🏛️ Engineering that grows with the product
+## Engineering identity
 
-XMECK-AI evolved from the **QBOX-AI Stage B** Windows engineering foundation into a unified personal intelligence workspace. Version **1.0.0.0** is the first consolidated product identity—not a claim that the complete long-term vision is finished.
+**Built by Raaj Mandale — Systems Architect** · Published through **[XMECK-LAB](https://github.com/XMECK-LAB)**.
 
-<p align="center">
-  <img src="assets/diagrams/product-evolution-animated.svg" width="93%" alt="QBOX-AI engineering evolution into XMECK-AI">
-</p>
+Work across execution systems, survivability, private intelligence and controlled action informs XMECK-AI's design. See [Raaj Mandale](https://github.com/raajmandale) for related independent systems-engineering work.
 
-**Built with:** .NET 8 / WPF · Windows x64 · llama.cpp · GGUF model admission · local project/knowledge systems · governed work and evidence.
-
-**Designed boundaries:** Local by default, no silent cloud fallback, explicit project authority, user-owned resources and verifiable readiness.
-
-The V1 scope does **not** include unrestricted computer control, guaranteed third-party provider readiness, multi-user enterprise hosting, mobile/macOS/Linux qualification or independent security certification.
-
-[Architecture](docs/ARCHITECTURE.md) · [Engineering provenance](docs/ENGINEERING_PROVENANCE.md) · [Product evolution](docs/PRODUCT_EVOLUTION.md) · [Release boundaries](docs/RELEASE_BOUNDARY.md)
-
----
-
-<p align="center">
-  <strong>Built by Raaj Mandale — Systems Architect</strong><br>
-  Published under <a href="https://github.com/XMECK-LAB"><strong>XMECK-AI LAB</strong></a><br><br>
-  <strong>Your intelligence. Local by default. Cloud by choice.</strong>
-</p>
+<p align="center"><strong>Your intelligence. Local by default. Cloud by choice.</strong></p>
